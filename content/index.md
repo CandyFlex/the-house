@@ -6,6 +6,10 @@ title: The House
 
 Seven floors. One world. No outside.
 
+## Sessions
+
+- [[40_output/sessions/session-2026-04-26-script|2026-04-26 — Session Script: The Transfer]]
+
 ## Navigate
 
 - [[10_canon/_world-index|World Index]] — all entities
