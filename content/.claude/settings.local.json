@@ -1,0 +1,11 @@
+{
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "obsidian"
+  ],
+  "permissions": {
+    "allow": [
+      "mcp__obsidian__obsidian_list_files_in_vault"
+    ]
+  }
+}
