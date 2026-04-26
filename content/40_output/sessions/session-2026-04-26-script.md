@@ -249,17 +249,19 @@ type: session-script
 
 ---
 
-**OUTPOST [MONTH — YOUR CALL]**
-> *"Further. Northwest. The holder there did not fight Caesar — she went silent the day he moved on her outpost. I do not know if silence meant survival or simply that she died quietly. The outpost's infrastructure was intact when Caesar's forces arrived. Whether they took it fully or left it when she stopped responding, I cannot say."*
+**OUTPOST AUGUST — The Observatory**
+> *"Built to watch. High ground, wide sightlines. Before Caesar changed the sky it tracked population movement, soul energy distribution, the storm's behavior. When he put up the Suns it became less useful — daylight flattens what the Observatory reads. In permanent dark it becomes more useful than it ever was. The holder there did not fight Caesar — she went silent the day he moved on her outpost. I do not know if silence meant survival or simply that she died quietly."*
 
-*Unknown condition. A person may still be there. The infrastructure may be intact.*
+*Unknown condition. Someone may still be there. In the new permanent darkness, this outpost becomes a strategic asset — everything Caesar's artificial daylight was hiding is now readable from the right elevation.*
 
 ---
 
-**OUTPOST [MONTH — YOUR CALL]**
-> *"The one Caesar wanted most. He took it by force, not neglect — something there was worth taking. But the records I could observe suggested he never fully incorporated what it held into his own system. Either it resisted integration or he never finished the process. It has been quiet since. Something may still be in it that Caesar couldn't absorb."*
+**OUTPOST DECEMBER — The Vault**
+> *"The one Caesar wanted most and could not absorb. It sits at the edge of the soul storm — close enough that the storm distorts approach, close enough that most things avoid the area entirely. The soul storm behaves like weather. It carries soul energy in suspension and at the storm's edge, where the boundary meets the floor's ambient nothing, that energy precipitates. The vault was built at the low point of that process. Soul stones do not need to be mined there. They form. The vault collects what the storm deposits continuously."*
+>
+> *"Caesar needed its stabilization function. The vault regulates the storm's edge — gives it somewhere to deposit. Without that regulation the storm's boundary becomes volatile. Destroying the vault would have destabilized the storm he was using to power his Suns. He could not absorb it because full registration required proximity he was not willing to risk. It has been sitting there, collecting, since the last time anyone went near it."*
 
-*Highest risk. Highest potential reward. Caesar wanted what's there and couldn't fully take it.*
+*Highest risk. Soul storm exposure on approach, disorienting navigation, carrier creatures absent from the area entirely — which is its own kind of warning. What's inside has been accumulating for a very long time. Whoever holds this controls a renewable soul stone source and leverage over the storm's edge behavior.*
 
 ---
 
