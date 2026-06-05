@@ -22,8 +22,8 @@ Each dungeon is a contained pocket realm — a demiplane that exists only while 
 |-----|---------|-----------|-------|-------|--------|
 | 1 | [Crystal Trench](crystal-trench) | Easy | 3 + Boss | 20 | ✅ Active |
 | 2 | [Fungal Depths](fungal-depths) | Easy | 3 + Boss | 20 | ✅ Active |
-| 5 | Iron Crucible | Moderate | — | — | ⏳ Pending |
-| 7 | Glass Cathedral | Hard | — | — | ⏳ Pending |
+| 5 | [Iron Crucible](iron-crucible) | Moderate | 3 + Boss | 20 | ✅ Active |
+| 7 | [Glass Cathedral](glass-cathedral) | Hard | 3 + Boss | 20 | ✅ Active |
 
 ---
 
@@ -54,3 +54,5 @@ You are the maintenance crew. The backstage. The wind that changes what grows he
 |---------|-------|-------------|-------------------|
 | [Crystal Trench](crystal-trench) | Frozen geode / cold / light | Spiral staircase carved into a maintenance shaft 200 yds east of public entrance | Clean (minor resonance echoes in Refracting Gallery) |
 | [Fungal Depths](fungal-depths) | Bioluminescent fungus / poison / decay | Root-ladder through a collapsed vent 150 yds north | Light corruption (mycelium creeping into interstitial layer) |
+| [Iron Crucible](iron-crucible) | Hellish forge / fire / metal | Ore-delivery chute 300 yds east of public entrance, collapsed — DC 12 Athletics to climb | Moderate corruption (forge producing weapons without input — memory bleed from Caesar's armory protocols) |
+| [Glass Cathedral](glass-cathedral) | Resonant glass / sound / light | Bell Tower service stair hidden behind false stained-glass panel in southern transept — visible only with a Cathedral attunement item | Heavy corruption (accumulated whispers forming a fractured consciousness — the glass has gone feral) |

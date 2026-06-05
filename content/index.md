@@ -8,11 +8,11 @@ title: The House
 
 ## Floor 1 — Items & Dungeons
 
-→ **[Dungeon Hub](floor-01-dungeons)** — IO's dungeon system. Crystal Trench (20 items), Fungal Depths (20 items). Admin sub-entrances, control nodes, item pools.
+→ **[Dungeon Hub](floor-01-dungeons)** — IO's dungeon system. Crystal Trench (20 items), Fungal Depths (20 items), Iron Crucible (20 items), Glass Cathedral (20 items). Admin sub-entrances, control nodes, item pools.
 
-→ **[Named Blades](40_output/items/named-blades)** — Five legendary-forged weapons with true names and Awakened States. Singularity Edge, Corona, Grafted Fang, Entropy's Reckoning, Chronos Culling.
+→ **[Named Blades](40_output/items/named-blades)** — Twenty legendary-forged weapons with true names and Awakened States.
 
-→ **[Legacy Items](40_output/items/balance-5e)** — Hell-Knight's Carapace, Stormcaller Hammer.
+→ **[Legacy Items](40_output/items/balance-5e)** — Twenty relics from Caesar's era — gladiator gear, rebel armaments, imperial regalia.
 
 → **[Floor 1 — Red](floor-01)** — the threshold. Dungeons, soul storms, coastline, IO, and the Originator of Freedom.
 
