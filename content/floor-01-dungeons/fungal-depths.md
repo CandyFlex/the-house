@@ -132,34 +132,34 @@ The ladder deposits you into the **Interstitial Layer** — a narrow, humid craw
 ### Uncommon
 | Item | Type | Key Mechanic | Found In | Attune |
 |------|------|-------------|----------|--------|
-| [Sporewalker's Cloak](fungal-depths/Sporewalkers-Cloak.md) | Wondrous (cloak) | Poison resist, spore-cloud escape | Node 1 (west wall) | Yes |
-| [Glowcap Lantern](fungal-depths/Glowcap-Lantern.md) | Wondrous (held) | Bioluminescent light, faerie fire | Node 1 (anomalous Husk) | Yes |
-| [Mycelial Net](fungal-depths/Mycelial-Net.md) | Weapon (net) | +1, escape DC 15, regenerates | Node 2 (terrace 2) | Yes |
-| [Sporepuff Slippers](fungal-depths/Sporepuff-Slippers.md) | Wondrous (boots) | Cushioned fall, spore-glide jump, stomp cloud | Node 1 (hidden growth) | **No** |
-| [Mycelial Messenger](fungal-depths/Mycelial-Messenger.md) | Wondrous | 25-word message delivery via mycelium, 1/dawn | Node 1 (dead delver remains) | **No** |
+| [Sporewalker's Cloak](fungal-depths/cloaks/Sporewalkers-Cloak.md) | Wondrous (cloak) | Poison resist, spore-cloud escape | Node 1 (west wall) | Yes |
+| [Glowcap Lantern](fungal-depths/wondrous/Glowcap-Lantern.md) | Wondrous (held) | Bioluminescent light, faerie fire | Node 1 (anomalous Husk) | Yes |
+| [Mycelial Net](fungal-depths/wondrous/Mycelial-Net.md) | Weapon (net) | +1, escape DC 15, regenerates | Node 2 (terrace 2) | Yes |
+| [Sporepuff Slippers](fungal-depths/boots/Sporepuff-Slippers.md) | Wondrous (boots) | Cushioned fall, spore-glide jump, stomp cloud | Node 1 (hidden growth) | **No** |
+| [Mycelial Messenger](fungal-depths/wondrous/Mycelial-Messenger.md) | Wondrous | 25-word message delivery via mycelium, 1/dawn | Node 1 (dead delver remains) | **No** |
 
 ### Rare
 | Item | Type | Key Mechanic | Found In |
 |------|------|-------------|----------|
-| [Sporewood Longbow](fungal-depths/Sporewood-Longbow.md) | Weapon (longbow) | +1, poison, spore cloud, stinking cloud | Node 2 (top terrace) |
-| [Chitin-Bark Carapace](fungal-depths/Chitin-Bark-Carapace.md) | Armor (breastplate) | +1 AC, poison resist, spore burst | Node 2 (terrace 3) |
-| [Decayer's Gauntlets](fungal-depths/Decayers-Gauntlets.md) | Wondrous (gloves) | +1d6 poison, spore choke | Node 3 (fungal stalk) |
-| [Fungi-Touched Staff](fungal-depths/Fungi-Touched-Staff.md) | Staff | +1, poison spells, blight | Node 3 (clearing edge) |
-| [Ring of Rot and Renewal](fungal-depths/Ring-of-Rot-and-Renewal.md) | Ring | Reaction THP, speak with dead | Node 3 (Rotwarden's gift) |
-| [Rot-Tender's Sickle](fungal-depths/Rot-Tenders-Sickle.md) | Weapon (sickle) | +1, harvest charges → cure wounds, save-from-0 | Node 3 (Rotwarden's gift, for worthy admins) |
-| [Fungal Spore-Launcher](fungal-depths/Fungal-Spore-Launcher.md) | Weapon (light crossbow) | +1, auto-ammo, sporecloud, 15ft AoE burst | Node 2 (hollow mushroom stalk) |
-| [Root-Grip Greaves](fungal-depths/Root-Grip-Greaves.md) | Wondrous (boots) | +10ft speed, root anchor (+2 AC, immovable), anti-shove | Node 2 (Sovereign's guard corpse, terrace 4) |
-| [Marrow-Mesh Gambeson](fungal-depths/Marrow-Mesh-Gambeson.md) | Armor (studded leather) | +1 AC, DR 3 to B/P/S, fungal exoskeleton | Node 3 (Rotwarden's robe, gifted on respect) |
-| [Pallid Spore Bulwark](fungal-depths/Pallid-Spore-Bulwark.md) | Armor (shield) | +1 shield, reaction spore retaliation, bloom → fungal wall | Boss chamber (throne growth) |
-| [Seedling Satchel](fungal-depths/Seedling-Satchel.md) | Wondrous (belt) | 1d4 random fungal grenades/day (obscure/poison/light/restrain) | Node 2 (hollow stalk, lower terrace) |
+| [Sporewood Longbow](fungal-depths/weapons/Sporewood-Longbow.md) | Weapon (longbow) | +1, poison, spore cloud, stinking cloud | Node 2 (top terrace) |
+| [Chitin-Bark Carapace](fungal-depths/armor/Chitin-Bark-Carapace.md) | Armor (breastplate) | +1 AC, poison resist, spore burst | Node 2 (terrace 3) |
+| [Decayer's Gauntlets](fungal-depths/gauntlets/Decayers-Gauntlets.md) | Wondrous (gloves) | +1d6 poison, spore choke | Node 3 (fungal stalk) |
+| [Fungi-Touched Staff](fungal-depths/weapons/Fungi-Touched-Staff.md) | Staff | +1, poison spells, blight | Node 3 (clearing edge) |
+| [Ring of Rot and Renewal](fungal-depths/jewelry/Ring-of-Rot-and-Renewal.md) | Ring | Reaction THP, speak with dead | Node 3 (Rotwarden's gift) |
+| [Rot-Tender's Sickle](fungal-depths/weapons/Rot-Tenders-Sickle.md) | Weapon (sickle) | +1, harvest charges → cure wounds, save-from-0 | Node 3 (Rotwarden's gift, for worthy admins) |
+| [Fungal Spore-Launcher](fungal-depths/weapons/Fungal-Spore-Launcher.md) | Weapon (light crossbow) | +1, auto-ammo, sporecloud, 15ft AoE burst | Node 2 (hollow mushroom stalk) |
+| [Root-Grip Greaves](fungal-depths/boots/Root-Grip-Greaves.md) | Wondrous (boots) | +10ft speed, root anchor (+2 AC, immovable), anti-shove | Node 2 (Sovereign's guard corpse, terrace 4) |
+| [Marrow-Mesh Gambeson](fungal-depths/armor/Marrow-Mesh-Gambeson.md) | Armor (studded leather) | +1 AC, DR 3 to B/P/S, fungal exoskeleton | Node 3 (Rotwarden's robe, gifted on respect) |
+| [Pallid Spore Bulwark](fungal-depths/armor/Pallid-Spore-Bulwark.md) | Armor (shield) | +1 shield, reaction spore retaliation, bloom → fungal wall | Boss chamber (throne growth) |
+| [Seedling Satchel](fungal-depths/wondrous/Seedling-Satchel.md) | Wondrous (belt) | 1d4 random fungal grenades/day (obscure/poison/light/restrain) | Node 2 (hollow stalk, lower terrace) |
 
 ### Very Rare
 | Item | Type | Key Mechanic | Found In |
 |------|------|-------------|----------|
-| [Heart of the Mycelium](fungal-depths/Heart-of-the-Mycelium.md) | Wondrous (amulet) | Poison immunity, fungal zombie, spore-step | Boss drop |
-| [Crown of the Spore Sovereign](fungal-depths/Crown-of-the-Spore-Sovereign.md) | Wondrous (head) | Speak with fungi, cloudkill, spore aura | Boss drop |
-| [Scepter of Spore Sovereignty](fungal-depths/Scepter-of-Spore-Sovereignty.md) | Weapon (mace) | +2, infectious command, 1/day mass charm | Boss drop |
-| [Bloom of the Wilt-King](fungal-depths/Bloom-of-the-Wilt-King.md) | Wondrous | Death-charge system: revivify, blight, death ward | Boss drop (rare random) |
+| [Heart of the Mycelium](fungal-depths/jewelry/Heart-of-the-Mycelium.md) | Wondrous (amulet) | Poison immunity, fungal zombie, spore-step | Boss drop |
+| [Crown of the Spore Sovereign](fungal-depths/headwear/Crown-of-the-Spore-Sovereign.md) | Wondrous (head) | Speak with fungi, cloudkill, spore aura | Boss drop |
+| [Scepter of Spore Sovereignty](fungal-depths/weapons/Scepter-of-Spore-Sovereignty.md) | Weapon (mace) | +2, infectious command, 1/day mass charm | Boss drop |
+| [Bloom of the Wilt-King](fungal-depths/wondrous/Bloom-of-the-Wilt-King.md) | Wondrous | Death-charge system: revivify, blight, death ward | Boss drop (rare random) |
 
 ---
 

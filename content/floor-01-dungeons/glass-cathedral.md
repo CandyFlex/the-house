@@ -94,36 +94,36 @@ A maintenance access: the Bell Tower's service stair. A narrow spiral staircase 
 
 | Item | Type | Key Mechanic | Cost |
 |------|------|-------------|------|
-| [Choir-Shard Pendant](Choir-Shard-Pendant.md) | Wondrous item (necklace) | Reaction silence hostile speaker, 2/short rest | 35,000 |
-| [Stained-Soul Lens](Stained-Soul-Lens.md) | Wondrous item (eye lens) | Passive alignment sight; 1/long rest *color spray* | 30,000 |
-| [Shatterglass Dagger](Shatterglass-Dagger.md) | Weapon (dagger) | +1 dagger, crit: +2d4 slashing + weapon destroyed 1 round | 25,000 |
-| [Echo-Step Slippers](Echo-Step-Slippers.md) | Wondrous item (boots) | Afterimages in vacated squares deal 1d4 psychic | 40,000 |
+| [Choir-Shard Pendant](glass-cathedral/jewelry/Choir-Shard-Pendant.md) | Wondrous item (necklace) | Reaction silence hostile speaker, 2/short rest | 35,000 |
+| [Stained-Soul Lens](glass-cathedral/headwear/Stained-Soul-Lens.md) | Wondrous item (eye lens) | Passive alignment sight; 1/long rest *color spray* | 30,000 |
+| [Shatterglass Dagger](glass-cathedral/weapons/Shatterglass-Dagger.md) | Weapon (dagger) | +1 dagger, crit: +2d4 slashing + weapon destroyed 1 round | 25,000 |
+| [Echo-Step Slippers](glass-cathedral/boots/Echo-Step-Slippers.md) | Wondrous item (boots) | Afterimages in vacated squares deal 1d4 psychic | 40,000 |
 
 ### Rare
 
 | Item | Type | Key Mechanic | Cost |
 |------|------|-------------|------|
-| [Resonance Blade](Resonance-Blade.md) | Weapon (longsword) | +1 longsword, escalating thunder on consecutive hits (1d4→3d4) | 250,000 |
-| [Prism-Weave Half-Plate](Prism-Weave-Half-Plate.md) | Armor (half plate) | +1 half plate, bonus action swap element resist or +2 AC | 350,000 |
-| [Cathedral Chime Shield](Cathedral-Chime-Shield.md) | Armor (shield) | +1 shield, reaction on hit: 2d4 thunder + deafen 5ft AoE | 300,000 |
-| [Mirror-Kin Ring](Mirror-Kin-Ring.md) | Ring | Reaction: 50% double redirect vs ranged/spell + shatter 1d6 AoE | 250,000 |
-| [Silence-Keeper's Mantle](Silence-Keepers-Mantle.md) | Wondrous item (cloak) | Silent Stealth advantage; 1/long *silence*; at-will whisper (1 mile) | 200,000 |
-| [Rose Window Amulet](Rose-Window-Amulet.md) | Wondrous item (amulet) | 5 charges: *bless*/*beacon of hope*/*aura of vitality*; dim light aura | 350,000 |
-| [Harmonic Bow](Harmonic-Bow.md) | Weapon (longbow) | +1 longbow, sonic thunder rounds; 1/short 3-target cascade + push | 300,000 |
-| [Prismatic Focus](Prismatic-Focus.md) | Wondrous item (arcane focus) | +1 spell attacks; at-will damage type swap; 1/long +1d6 bonus | 275,000 |
-| [Glasswalker's Bracers](Glasswalkers-Bracers.md) | Wondrous item (bracers) | Hands phase through glass at-will; 1/long full body glass phasing | 225,000 |
-| [Confessional Earring](Confessional-Earring.md) | Wondrous item (earring) | Passive lie detection 30ft; 1/long single-question *commune* | 200,000 |
+| [Resonance Blade](glass-cathedral/weapons/Resonance-Blade.md) | Weapon (longsword) | +1 longsword, escalating thunder on consecutive hits (1d4→3d4) | 250,000 |
+| [Prism-Weave Half-Plate](glass-cathedral/armor/Prism-Weave-Half-Plate.md) | Armor (half plate) | +1 half plate, bonus action swap element resist or +2 AC | 350,000 |
+| [Cathedral Chime Shield](glass-cathedral/armor/Cathedral-Chime-Shield.md) | Armor (shield) | +1 shield, reaction on hit: 2d4 thunder + deafen 5ft AoE | 300,000 |
+| [Mirror-Kin Ring](glass-cathedral/jewelry/Mirror-Kin-Ring.md) | Ring | Reaction: 50% double redirect vs ranged/spell + shatter 1d6 AoE | 250,000 |
+| [Silence-Keeper's Mantle](glass-cathedral/cloaks/Silence-Keepers-Mantle.md) | Wondrous item (cloak) | Silent Stealth advantage; 1/long *silence*; at-will whisper (1 mile) | 200,000 |
+| [Rose Window Amulet](glass-cathedral/jewelry/Rose-Window-Amulet.md) | Wondrous item (amulet) | 5 charges: *bless*/*beacon of hope*/*aura of vitality*; dim light aura | 350,000 |
+| [Harmonic Bow](glass-cathedral/weapons/Harmonic-Bow.md) | Weapon (longbow) | +1 longbow, sonic thunder rounds; 1/short 3-target cascade + push | 300,000 |
+| [Prismatic Focus](glass-cathedral/wondrous/Prismatic-Focus.md) | Wondrous item (arcane focus) | +1 spell attacks; at-will damage type swap; 1/long +1d6 bonus | 275,000 |
+| [Glasswalker's Bracers](glass-cathedral/gauntlets/Glasswalkers-Bracers.md) | Wondrous item (bracers) | Hands phase through glass at-will; 1/long full body glass phasing | 225,000 |
+| [Confessional Earring](glass-cathedral/jewelry/Confessional-Earring.md) | Wondrous item (earring) | Passive lie detection 30ft; 1/long single-question *commune* | 200,000 |
 
 ### Very Rare
 
 | Item | Type | Key Mechanic | Cost |
 |------|------|-------------|------|
-| [Bell-Tower Greatsword](Bell-Tower-Greatsword.md) | Weapon (greatsword) | +2 greatsword; delayed 1d8 thunder AoE on hit; 1/long 30ft AoE aura for 1 min | 3,000,000 |
-| [Prism Crown](Prism-Crown.md) | Wondrous item (crown) | Truesight 30ft; PB/long twin single-target spells; 1/long *prismatic spray* | 3,500,000 |
-| [Mirror-Soul Armor](Mirror-Soul-Armor.md) | Armor (plate) | +2 plate; immune to frightened; reaction: fear target or 2d6 psychic on melee hit | 3,500,000 |
-| [Cathedral-Keeper's Staff](Cathedral-Keepers-Staff.md) | Weapon (quarterstaff) | +2 staff, 10 charges (*shatter*→*wall of force*); thunder resist | 4,000,000 |
-| [Silence-Shroud](Silence-Shroud.md) | Wondrous item (cloak) | Acoustic void immunity; ignore *silence*; 1/long 1-min invis + auto-crit | 2,500,000 |
-| [Prism-Shatter Ring](Prism-Shatter-Ring.md) | Ring | 1/long 60ft cone: 8d6 slashing + random d8 color rider (prismatic table) | 3,000,000 |
+| [Bell-Tower Greatsword](glass-cathedral/weapons/Bell-Tower-Greatsword.md) | Weapon (greatsword) | +2 greatsword; delayed 1d8 thunder AoE on hit; 1/long 30ft AoE aura for 1 min | 3,000,000 |
+| [Prism Crown](glass-cathedral/headwear/Prism-Crown.md) | Wondrous item (crown) | Truesight 30ft; PB/long twin single-target spells; 1/long *prismatic spray* | 3,500,000 |
+| [Mirror-Soul Armor](glass-cathedral/armor/Mirror-Soul-Armor.md) | Armor (plate) | +2 plate; immune to frightened; reaction: fear target or 2d6 psychic on melee hit | 3,500,000 |
+| [Cathedral-Keeper's Staff](glass-cathedral/weapons/Cathedral-Keepers-Staff.md) | Weapon (quarterstaff) | +2 staff, 10 charges (*shatter*→*wall of force*); thunder resist | 4,000,000 |
+| [Silence-Shroud](glass-cathedral/cloaks/Silence-Shroud.md) | Wondrous item (cloak) | Acoustic void immunity; ignore *silence*; 1/long 1-min invis + auto-crit | 2,500,000 |
+| [Prism-Shatter Ring](glass-cathedral/jewelry/Prism-Shatter-Ring.md) | Ring | 1/long 60ft cone: 8d6 slashing + random d8 color rider (prismatic table) | 3,000,000 |
 
 ---
 

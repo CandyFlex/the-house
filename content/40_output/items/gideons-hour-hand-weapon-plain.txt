@@ -1,0 +1,89 @@
+Gideon's Hour Hand Weapon
+Weapon (whip-spear), legendary (requires attunement by the Hour hand of Floor 1)
+
+Rarity: Legendary (Scales with Attunement)
+Weight: 3 lb
+Damage: 1d8 slashing (whip form) / 1d10 piercing (spear form)
+Properties: Finesse, Reach, Special
+
+
+A bronze whip-spear, 8 to 10 feet in its initial form. The shaft transitions from rigid spear-form near the grip to flexible whip-form toward the tip. A pulsing dualistic end alternates between a cutting edge and a binding coil. A fine black line traces up the bearer's arm where the Hour key was absorbed — a permanent tattoo-like mark connecting wielder to weapon at all times.
+
+When active, faint gold-bronze energy trails around the weapon — motes of frozen light and slowed particles distorting the air around it.
+
+
+Base Properties
+
+Dualistic Form. As a bonus action, switch between cutting edge (the tip gains armor-piercing properties — critical hits on a 19-20) or binding coil (on a hit, the target must succeed a Strength saving throw or be grappled until the start of your next turn).
+
+Dismiss and Recall. As a free action, you can dismiss the weapon into your arm-tattoo or summon it to your hand from up to 100 feet away.
+
+Hour Space. While on Floor 1, your initiative count is effectively doubled — you take two turns in the first round of combat (acting before all other creatures).
+
+
+Scaling
+
+This weapon grows in power as the wielder deepens their connection to Floor 1's mantle and economy. Additional properties unlock at attunement thresholds.
+
+
+Dormant
+
+The weapon in its base state with the properties above.
+
+
+Awakened
+
+Reach extends to 15 feet. Gains the following additional properties:
+
+Time-Snare. When you hit a creature with the binding coil, you can force it to make a Wisdom saving throw. On a failure, it is restrained until the start of your next turn, frozen in a brief temporal stasis. Once you use this property, you cannot do so again until you finish a short rest.
+
+Floor Resonance. You can sense concentrations of soul stone wealth within 1 mile of your position. The weapon hums more intensely near significant wealth.
+
+The weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. The cutting edge ignores nonmagical armor bonuses to AC.
+
+
+Exalted
+
+Reach extends to 20 feet. The bronze form begins to phase between solid and energy. Gains the following additional properties:
+
+Temporal Sweep. As an action, you can make a single attack roll against all creatures in a 15-foot cone. Each creature hit takes weapon damage.
+
+Time-Slow Zone. As an action, you create a 10-foot-radius sphere of slowed time centered on a point within 60 feet. The sphere lasts for 1 minute. Creatures of your choice within the sphere have their speed halved and cannot take reactions. Once you use this property, you cannot do so again until you finish a short rest.
+
+Temporal Tether. When a creature grappled by the binding coil attempts to teleport, plane shift, or change form, it must succeed a Charisma saving throw or the effect fails and the action is wasted.
+
+The binding coil's grapple now restrains the target.
+
+
+Champion
+
+The weapon becomes a construct of pure bronze temporal energy. Gains the following additional properties:
+
+Energy Manifestation. The weapon can extend up to 60 feet while on Floor 1. It passes harmlessly through your allies but counts as difficult terrain for your enemies.
+
+Limited Time Stop. As an action, you can stop time for 1 round. All other creatures are frozen — they cannot act, move, or take damage until the start of your next turn. You can take one additional action. Once you use this property, you cannot do so again until you finish a long rest.
+
+Economy Agent. The weapon draws power from Floor 1's accumulated soul stone wealth (see Floor Economy Agent scaling table below).
+
+
+Floor Economy Agent Scaling
+
+Floor Wealth Threshold: 500 million soul stones
+Bonus: +2
+Additional Properties: Weapon glows near significant wealth. Gain one additional use of Time-Snare per short rest.
+
+Floor Wealth Threshold: 1 billion soul stones
+Bonus: +3
+Additional Properties: Creatures within 5 feet of you at the start of your turn have their speed reduced by 10 feet until the start of your next turn.
+
+Floor Wealth Threshold: 50 billion soul stones
+Bonus: +4
+Additional Properties: Time-Snare and Temporal Sweep recharge on a short rest instead of a long rest. The weapon's reach extends to 120 feet within your domain.
+
+Floor Wealth Threshold: 500 billion soul stones
+Bonus: +4
+Additional Properties: Temporal Sovereignty — The weapon's x10 speed zone now applies outside Floor 1; you take two turns in the first round of any combat. The energy manifestation can persist indefinitely.
+
+Floor Wealth Threshold: 1 trillion+ soul stones
+Bonus: +4
+Additional Properties: The Hour's Throne — Once per day, you can enter a state where time flows at your command for 1 minute. During this state, you can take one additional action and one additional bonus action on each of your turns. Enemies cannot take reactions against you. The weapon becomes an extension of your will — it can attack independently while you act, granting you an additional attack each round without using your action.

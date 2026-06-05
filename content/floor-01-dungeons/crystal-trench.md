@@ -118,34 +118,34 @@ The shaft deposits you into the **Interstitial Layer** — the liminal space bet
 ### Uncommon
 | Item | Type | Key Mechanic | Found In |
 |------|------|-------------|----------|
-| [Frostward Shard](crystal-trench/Frostward-Shard.md) | Wondrous | Cold resistance + ice walking | Node 1 (violet path) |
-| [Frostbite Greaves](crystal-trench/Frostbite-Greaves.md) | Wondrous (boots) | Ice traction + rime trail | Node 1 (white path) |
-| [Glacial Shard Javelin](crystal-trench/Glacial-Shard-Javelin.md) | Weapon (javelin) | +1, returning, speed -10ft | Node 2 (public drop) |
-| [Crystalline Pendant](crystal-trench/Crystalline-Pendant.md) | Wondrous (necklace) | Auto-stabilize + armor of agathys | Node 3 (north alcove) |
-| [Geode Fang](crystal-trench/Geode-Fang.md) | Weapon (dagger) | +1, shatter burst | Node 3 (northeast body) |
+| [Frostward Shard](crystal-trench/wondrous/Frostward-Shard.md) | Wondrous | Cold resistance + ice walking | Node 1 (violet path) |
+| [Frostbite Greaves](crystal-trench/boots/Frostbite-Greaves.md) | Wondrous (boots) | Ice traction + rime trail | Node 1 (white path) |
+| [Glacial Shard Javelin](crystal-trench/weapons/Glacial-Shard-Javelin.md) | Weapon (javelin) | +1, returning, speed -10ft | Node 2 (public drop) |
+| [Crystalline Pendant](crystal-trench/jewelry/Crystalline-Pendant.md) | Wondrous (necklace) | Auto-stabilize + armor of agathys | Node 3 (north alcove) |
+| [Geode Fang](crystal-trench/weapons/Geode-Fang.md) | Weapon (dagger) | +1, shatter burst | Node 3 (northeast body) |
 
 ### Rare
 | Item | Type | Key Mechanic | Found In |
 |------|------|-------------|----------|
-| [Crystal Fracture Bow](crystal-trench/Crystal-Fracture-Bow.md) | Weapon (longbow) | +1, radiant splash, prism burst | Node 3 (ceiling ice) |
-| [Frostveil Lens](crystal-trench/Frostveil-Lens.md) | Wondrous (eye) | See through ice, truesight | Node 2 (puzzle alcove) |
-| [Geode Aegis](crystal-trench/Geode-Aegis.md) | Armor (shield) | +1, shard retaliation, crystal wall | Boss drop |
-| [Geode Band](crystal-trench/geode-band.md) | Ring | Ray of frost, cold rebuke, sleet storm | Node 3 (southeast body) |
-| [Prism Weave Cloak](crystal-trench/Prism-Weave-Cloak.md) | Wondrous (cloak) | Stealth advantage, spell deflect | Node 2 (behind panel 4) |
-| [Permafrost Gauntlets](crystal-trench/permafrost-gauntlets.md) | Wondrous (gloves) | +1d6 cold melee, freeze grapple | Node 1 (blue path) |
-| [Rime-Kissed Plate](crystal-trench/Rime-Kissed-Plate.md) | Armor (half plate) | +1 AC, cold resist, retaliation | Boss drop |
-| [Cryo-Lattice Staff](crystal-trench/cryo-lattice-staff.md) | Staff | +1, cold spells, ice storm | Node 2 (admin alcove) |
-| [Rimespire](crystal-trench/Rimespire.md) | Weapon (spear) | +1, ice field, soul harvest | Node 3 (wight drop) |
-| [Frozen Core Belt](crystal-trench/frozen-core-belt.md) | Wondrous (belt) | CON +2, cold cone breath | Node 1 (center path, hidden) |
-| [Crystal Ice Lash](crystal-trench/crystal-ice-lash.md) | Weapon (whip) | +1, +1d4 cold, pull + snare | Node 3 (southwest body — the anomalous one) |
+| [Crystal Fracture Bow](crystal-trench/weapons/Crystal-Fracture-Bow.md) | Weapon (longbow) | +1, radiant splash, prism burst | Node 3 (ceiling ice) |
+| [Frostveil Lens](crystal-trench/headwear/Frostveil-Lens.md) | Wondrous (eye) | See through ice, truesight | Node 2 (puzzle alcove) |
+| [Geode Aegis](crystal-trench/armor/Geode-Aegis.md) | Armor (shield) | +1, shard retaliation, crystal wall | Boss drop |
+| [Geode Band](crystal-trench/jewelry/geode-band.md) | Ring | Ray of frost, cold rebuke, sleet storm | Node 3 (southeast body) |
+| [Prism Weave Cloak](crystal-trench/cloaks/Prism-Weave-Cloak.md) | Wondrous (cloak) | Stealth advantage, spell deflect | Node 2 (behind panel 4) |
+| [Permafrost Gauntlets](crystal-trench/gauntlets/permafrost-gauntlets.md) | Wondrous (gloves) | +1d6 cold melee, freeze grapple | Node 1 (blue path) |
+| [Rime-Kissed Plate](crystal-trench/armor/Rime-Kissed-Plate.md) | Armor (half plate) | +1 AC, cold resist, retaliation | Boss drop |
+| [Cryo-Lattice Staff](crystal-trench/weapons/cryo-lattice-staff.md) | Staff | +1, cold spells, ice storm | Node 2 (admin alcove) |
+| [Rimespire](crystal-trench/weapons/Rimespire.md) | Weapon (spear) | +1, ice field, soul harvest | Node 3 (wight drop) |
+| [Frozen Core Belt](crystal-trench/belts/frozen-core-belt.md) | Wondrous (belt) | CON +2, cold cone breath | Node 1 (center path, hidden) |
+| [Crystal Ice Lash](crystal-trench/weapons/crystal-ice-lash.md) | Weapon (whip) | +1, +1d4 cold, pull + snare | Node 3 (southwest body — the anomalous one) |
 
 ### Very Rare
 | Item | Type | Key Mechanic | Found In |
 |------|------|-------------|----------|
-| [Geode Chrysalis Helm](crystal-trench/Geode-Chrysalis-Helm.md) | Wondrous (helm) | Cocoon shell, emergence AoE | Boss drop |
-| [Geode Heart](crystal-trench/Geode-Heart.md) | Weapon (greatsword) | +2, 1d8 cold, cataclysm | Boss drop |
-| [Glacier's Heart](crystal-trench/glaciers-heart.md) | Wondrous (amulet) | Cold immunity, frost guardian | Boss drop (rare) |
-| [Rimeheart Shard](crystal-trench/rimeheart-shard.md) | Wondrous (focus) | +2 cold DC, cone of cold, wall of ice | Boss drop (rare) |
+| [Geode Chrysalis Helm](crystal-trench/headwear/Geode-Chrysalis-Helm.md) | Wondrous (helm) | Cocoon shell, emergence AoE | Boss drop |
+| [Geode Heart](crystal-trench/weapons/Geode-Heart.md) | Weapon (greatsword) | +2, 1d8 cold, cataclysm | Boss drop |
+| [Glacier's Heart](crystal-trench/jewelry/glaciers-heart.md) | Wondrous (amulet) | Cold immunity, frost guardian | Boss drop (rare) |
+| [Rimeheart Shard](crystal-trench/wondrous/rimeheart-shard.md) | Wondrous (focus) | +2 cold DC, cone of cold, wall of ice | Boss drop (rare) |
 
 ---
 
