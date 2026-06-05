@@ -9,15 +9,15 @@ weight_lbs: 3
 save_dc: 19
 source: "The House â€” Named Blades"
 tags:
-  - named-blade
-  - time
-  - force
-  - melee
-  - versatile
-  - extra-action
-  - initiative
-  - temporal
-  - legendary-forge
+  — named-blade
+  — time
+  — force
+  — melee
+  — versatile
+  — extra-action
+  — initiative
+  — temporal
+  — legendary-forge
 date_created: 2026-06-05
 ---
 

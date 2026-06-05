@@ -9,16 +9,16 @@ weight_lbs: 8
 save_dc: 19
 source: "The House â€” Named Blades"
 tags:
-  - named-blade
-  - cold
-  - necrotic
-  - entropy
-  - melee
-  - control
-  - exhaustion
-  - greatsword
-  - two-handed
-  - legendary-forge
+  — named-blade
+  — cold
+  — necrotic
+  — entropy
+  — melee
+  — control
+  — exhaustion
+  — greatsword
+  — two-handed
+  — legendary-forge
 date_created: 2026-06-05
 ---
 
