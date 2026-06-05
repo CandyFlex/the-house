@@ -310,7 +310,7 @@ function generateMainIndex(standaloneItems, setNames) {
     const rarity = rarityTitle(item.rarity);
     const typeLabel = typeLabelNice(item.type, item.subtype);
     const tags = (item.tags || []).filter(t => !STANDALONE_TAGS.includes(t) && t !== "balance-5e").slice(0, 4).join(", ");
-    lines.push(`| [${name}](${name.replace(/[^a-zA-Z0-9]/g, "-")}.md) | ${rarity} | ${typeLabel} | ${tags} |`);
+    lines.push(`| [${name}](${item.stem}.md) | ${rarity} | ${typeLabel} | ${tags} |`);
   }
 
   lines.push("");
@@ -375,7 +375,7 @@ function generateSetIndex(setName, items) {
       const typeLabel = typeLabelNice(item.type, item.subtype);
       const mechanic = getKeyMechanic(item);
       const cost = fmt(item.value || 0);
-      lines.push(`| [${name}](${name.replace(/[^a-zA-Z0-9]/g, "-")}.md) | ${typeLabel} | ${mechanic} | ${cost} |`);
+      lines.push(`| [${name}](${item.stem}.md) | ${typeLabel} | ${mechanic} | ${cost} |`);
     }
 
     lines.push("");
@@ -451,6 +451,7 @@ function main() {
 
         allStandalone.push({
           name,
+          stem,
           rarity: fm.rarity || "unknown",
           type: fm.type || "wondrous-item",
           subtype: fm.subtype || null,
@@ -487,6 +488,7 @@ function main() {
 
         items.push({
           name,
+          stem,
           rarity: fm.rarity || "unknown",
           type: fm.type || "wondrous-item",
           subtype: fm.subtype || null,

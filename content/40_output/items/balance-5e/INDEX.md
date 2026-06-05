@@ -22,7 +22,7 @@ Floor 1, The House. A frozen chasm of blue-white geode crystal.
 
 | Item | Rarity | Type | Tags |
 |------|--------|------|------|
-| [Hell Knight's Carapace](Hell-Knight-s-Carapace.md) | Very Rare | Armor (plate) | fiend, fire, fear, infernal |
+| [Hell Knight's Carapace](Hell-Knights-Carapace.md) | Very Rare | Armor (plate) | fiend, fire, fear, infernal |
 | [Stormcaller Hammer](Stormcaller-Hammer.md) | Uncommon | Weapon (light hammer) | lightning, thunder, thrown, storm |
 
 ---
