@@ -1,3 +1,7 @@
+---
+title: "Crystal Trench"
+---
+
 # Crystal Trench
 
 *Hex 1. Easy (6 pts). Three room nodes → Boss. Active daily. Clean status.*

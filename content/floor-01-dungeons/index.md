@@ -1,3 +1,7 @@
+---
+title: "Floor 1 — Dungeon Hub"
+---
+
 # Floor 1 — Dungeon Hub
 
 *IO's dungeon system. Pocket realms cycle, collapse, and spawn anew. You are the admin, not the adventurer — your entrance is not theirs.*

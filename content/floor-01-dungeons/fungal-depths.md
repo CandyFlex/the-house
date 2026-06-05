@@ -1,3 +1,7 @@
+---
+title: "Fungal Depths"
+---
+
 # Fungal Depths
 
 *Hex 2. Easy (6 pts). Three room nodes → Boss. Active daily. Light corruption detected.*
