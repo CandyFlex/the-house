@@ -1,27 +1,52 @@
-# Floor 1 — Dungeons
+# Floor 1 — Dungeon Hub
 
-*Hex-based dungeon attractions on Floor 1 (Red). Clear dungeons → earn soul stones → unlock harder dungeons → shape the floor's economy.*
-
-| Hex | Dungeon | Difficulty | Points | Status |
-|-----|---------|-----------|--------|--------|
-| 1 | [Crystal Trench](crystal-trench.md) | Easy | 6 pts | ✅ Complete (20 items) |
-| 2 | [Fungal Depths](fungal-depths.md) | Easy | 6 pts | ✅ Complete (10 items) |
-| 5 | Iron Crucible | Moderate | 12 pts | ⏳ Pending |
-| 7 | Glass Cathedral | Hard | 15 pts | ⏳ Pending |
+*IO's dungeon system. Pocket realms cycle, collapse, and spawn anew. You are the admin, not the adventurer — your entrance is not theirs.*
 
 ---
 
-## Dungeon Cycle
+## The System
 
-Each dungeon is a contained demiplane — step through the threshold and the pocket realm activates. Complete it fully, and it collapses, merging with other completed dungeons to spawn something new. IO (the Originator of Freedom) determines what direction the new spawn takes.
+Each dungeon is a contained pocket realm — a demiplane that exists only while active. The surface entrance is a medieval-fantasy attraction: a stone archway, a door in a hillside, a well that glows at certain hours. Public delvers step through and experience the full dungeon: 3–4 rooms culminating in a boss chamber, with randomized loot drawn from a themed pool.
 
-**Rewards per clear:**
-- Soul stones (scaled to difficulty)
-- One random item from the dungeon's themed pool
+**You enter differently.** Every dungeon has an admin sub-entrance — a maintenance shaft, a service stair, a liminal space between the pocket realm and the floor's reality. From here, you traverse the dungeon's interstitial layer, emerging at control nodes to adjust difficulty, spawn rates, and reward pools. The public faces the attraction. You face the architecture.
 
 ---
 
-## See Also
+## Active Dungeons
 
-- [[floor-01-red]] — Floor 1 overview
-- [[the-house]] — The House cosmology
+| Hex | Dungeon | Difficulty | Rooms | Items | Status |
+|-----|---------|-----------|-------|-------|--------|
+| 1 | [Crystal Trench](crystal-trench) | Easy | 3 + Boss | 20 | ✅ Active |
+| 2 | [Fungal Depths](fungal-depths) | Easy | 3 + Boss | 10 | ✅ Active |
+| 5 | Iron Crucible | Moderate | — | — | ⏳ Pending |
+| 7 | Glass Cathedral | Hard | — | — | ⏳ Pending |
+
+---
+
+## Admin Access
+
+Every dungeon page includes:
+
+- **Public Façade** — what the delvers see when they approach the entrance
+- **Admin Sub-Entrance** — your way in, including how to find it and what it looks like
+- **Interstitial Layer** — the liminal space you traverse between rooms
+- **Room Nodes** — each room with description, challenge, and admin-exclusive options
+- **Boss Chamber** — the final encounter and its admin override
+- **Item Pool** — all items that can drop, organized by where they're found
+
+---
+
+## The Meta
+
+These dungeons are not natural. They are IO's expression of freedom imposed over Caesar's cruelty-scape. Each one is a pocket reality that absorbs the floor's ambient history — the frozen geode cathedral remembers the cold of Caesar's reign, the fungal cavern drinks from the decay he left behind. As you clear and maintain them, they evolve. Completed dungeons collapse and merge, spawning something new. IO decides what direction the new spawn takes.
+
+You are the maintenance crew. The backstage. The wind that changes what grows here.
+
+---
+
+## Quick Reference
+
+| Dungeon | Theme | Admin Entry | Corruption Status |
+|---------|-------|-------------|-------------------|
+| [Crystal Trench](crystal-trench) | Frozen geode / cold / light | Spiral staircase carved into a maintenance shaft 200 yds east of public entrance | Clean (minor resonance echoes in Refracting Gallery) |
+| [Fungal Depths](fungal-depths) | Bioluminescent fungus / poison / decay | Root-ladder through a collapsed vent 150 yds north | Light corruption (mycelium creeping into interstitial layer) |
