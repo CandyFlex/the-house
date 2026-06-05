@@ -5,16 +5,15 @@ type: wondrous-item
 attunement: false
 cost_soulstones: 25000
 weight_lbs: 0.2
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - wondrous-item
   - signal
   - movement
   - communication
-  - rebellion
 date_created: 2026-06-05
 ---
 
@@ -24,7 +23,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-A crude whistle carved from the femur of Duro — the first gladiator to refuse to kill. When Caesar ordered him to deliver the death-blow to a defeated opponent, Duro threw down his blade and was executed on the arena floor. That night, his cell-mate took his bone and carved this whistle, which became the signal for the first escape attempt. The whistle is pale yellow, worn smooth by countless lips, and carved with a single word in a dead language: *enough*.
+A crude whistle carved from the femur of Duro — the first gladiator to refuse to kill. When the arena-master ordered him to deliver the death-blow to a defeated opponent, Duro threw down his blade and was executed on the arena floor. That night, his cell-mate took his bone and carved this whistle, which became the signal for the first escape attempt. The whistle is pale yellow, worn smooth by countless lips, and carved with a single word in a dead language: *enough*.
 
 ---
 
@@ -71,7 +70,7 @@ A utility item with no combat damage but strong tactical and narrative applicati
 ```html
 <p><em>Wondrous item, uncommon</em></p>
 
-<p>A crude whistle carved from the femur of Duro — the first gladiator to refuse to kill. When Caesar ordered him to deliver the death-blow to a defeated opponent, Duro threw down his blade and was executed on the arena floor. That night, his cell-mate took his bone and carved this whistle, which became the signal for the first escape attempt. The whistle is pale yellow, worn smooth by countless lips, and carved with a single word in a dead language: enough.</p>
+<p>A crude whistle carved from the femur of Duro — the first gladiator to refuse to kill. When the arena-master ordered him to deliver the death-blow to a defeated opponent, Duro threw down his blade and was executed on the arena floor. That night, his cell-mate took his bone and carved this whistle, which became the signal for the first escape attempt. The whistle is pale yellow, worn smooth by countless lips, and carved with a single word in a dead language: enough.</p>
 
 <p><strong>Silent Signal (1/Short Rest).</strong> As an action, you can blow this whistle. It produces no audible sound, but each allied creature of your choice within 60 feet of you hears it clearly — a sharp, two-tone note that cuts through any noise or distraction. Each ally that hears the signal gains a +5-foot bonus to their walking speed for 1 minute.</p>
 

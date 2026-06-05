@@ -5,9 +5,9 @@ type: wondrous-item
 attunement: false
 cost_soulstones: 20000
 weight_lbs: 0.5
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - wondrous-item
@@ -23,7 +23,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-A bronze mouthguard shaped to fit the lower teeth, blackened with age and still carrying the metallic tang of old blood. It belonged to Varro — a gladiator who was executed mid-sentence for speaking Caesar's crimes aloud in the arena pit. His final words were cut short, but the mouthguard caught them before they died. When pressed to your lips, you feel the ghost of an unfinished sentence pressing back — an exhalation that refuses to become silence.
+A bronze mouthguard shaped to fit the lower teeth, blackened with age and still carrying the metallic tang of old blood. It belonged to Varro — a gladiator who was executed mid-sentence for speaking the tyrant's crimes aloud in the arena pit. His final words were cut short, but the mouthguard caught them before they died. When pressed to your lips, you feel the ghost of an unfinished sentence pressing back — an exhalation that refuses to become silence.
 
 ---
 
@@ -59,7 +59,7 @@ A narrative item that costs no attunement and offers no combat advantage — its
 
 ## Variants
 - **Rare — Orator's Last Breath:** Speech extends to 75 words, creatures within 120 feet hear it, and you remain conscious for 1 additional round after speaking before falling unconscious. Requires attunement. Cost: ~180,000 soul stones.
-- **Legendary — Caesar's Curse:** The mouthguard of Caesar himself, torn from his jaw by the mob. When you speak your dying declaration, it acts as a *power word kill* targeting one creature you name in your sentence (DC 19 Constitution save negates). Requires attunement by a creature that has witnessed a tyrant fall. Cost: priceless.
+- **Legendary — Tyrant's Curse:** The mouthguard of the tyrant himself, torn from his jaw by the mob. When you speak your dying declaration, it acts as a *power word kill* targeting one creature you name in your sentence (DC 19 Constitution save negates). Requires attunement by a creature that has witnessed a tyrant fall. Cost: priceless.
 
 ---
 
@@ -68,7 +68,7 @@ A narrative item that costs no attunement and offers no combat advantage — its
 ```html
 <p><em>Wondrous item, uncommon</em></p>
 
-<p>A bronze mouthguard shaped to fit the lower teeth, blackened with age and still carrying the metallic tang of old blood. It belonged to Varro — a gladiator who was executed mid-sentence for speaking Caesar's crimes aloud in the arena pit. His final words were cut short, but the mouthguard caught them before they died. When pressed to your lips, you feel the ghost of an unfinished sentence pressing back — an exhalation that refuses to become silence.</p>
+<p>A bronze mouthguard shaped to fit the lower teeth, blackened with age and still carrying the metallic tang of old blood. It belonged to Varro — a gladiator who was executed mid-sentence for speaking the tyrant's crimes aloud in the arena pit. His final words were cut short, but the mouthguard caught them before they died. When pressed to your lips, you feel the ghost of an unfinished sentence pressing back — an exhalation that refuses to become silence.</p>
 
 <p><strong>Dying Declaration.</strong> When you are reduced to 0 hit points and are not killed outright, you can use your reaction to speak a single sentence of up to 25 words. All creatures of your choice within 30 feet of you hear the words clearly, regardless of language, background noise, or magical silence. You then fall unconscious as normal. Once you use this property, you cannot do so again until you have been restored to at least 1 hit point after being unconscious.</p>
 

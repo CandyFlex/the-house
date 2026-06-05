@@ -5,9 +5,9 @@ type: wondrous-item
 attunement: true
 cost_soulstones: 300000
 weight_lbs: 0.2
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - wondrous-item
@@ -25,7 +25,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-A single lens of smoked glass, thick as a coin and set in a tarnished brass frame, designed to be worn over one eye. These lenses were issued to Caesar's secret police — the Ember-Eyes — who hunted escaped slaves by tracking the invisible heat-sigils branded into their skin during processing. The lens reveals what the naked eye cannot: the heat of a body hiding behind a wall, the fading warmth of a recently occupied bed, the signature of a spell hiding a creature from sight. The Ember-Eyes were feared more than the arena lions, and when the revolt came, they were the first to be dragged into the sand.
+A single lens of smoked glass, thick as a coin and set in a tarnished brass frame, designed to be worn over one eye. These lenses were issued to the old empire's secret police — the Ember-Eyes — who hunted escaped slaves by tracking the invisible heat-sigils branded into their skin during processing. The lens reveals what the naked eye cannot: the heat of a body hiding behind a wall, the fading warmth of a recently occupied bed, the signature of a spell hiding a creature from sight. The Ember-Eyes were feared more than the arena lions, and when the revolt came, they were the first to be dragged into the sand.
 
 ---
 
@@ -74,7 +74,7 @@ A reconnaissance item built for infiltration and ambush-heavy parties. Darkvisio
 ```html
 <p><em>Wondrous item, rare (requires attunement)</em></p>
 
-<p>A single lens of smoked glass, thick as a coin and set in a tarnished brass frame, designed to be worn over one eye. These lenses were issued to Caesar's secret police — the Ember-Eyes — who hunted escaped slaves by tracking the invisible heat-sigils branded into their skin during processing. The lens reveals what the naked eye cannot: the heat of a body hiding behind a wall, the fading warmth of a recently occupied bed, the signature of a spell hiding a creature from sight. The Ember-Eyes were feared more than the arena lions, and when the revolt came, they were the first to be dragged into the sand.</p>
+<p>A single lens of smoked glass, thick as a coin and set in a tarnished brass frame, designed to be worn over one eye. These lenses were issued to the old empire's secret police — the Ember-Eyes — who hunted escaped slaves by tracking the invisible heat-sigils branded into their skin during processing. The lens reveals what the naked eye cannot: the heat of a body hiding behind a wall, the fading warmth of a recently occupied bed, the signature of a spell hiding a creature from sight. The Ember-Eyes were feared more than the arena lions, and when the revolt came, they were the first to be dragged into the sand.</p>
 
 <p><strong>Smoke-Sight.</strong> While wearing this lens over one eye, you have darkvision out to a range of 60 feet. If you already have darkvision, its range increases by 30 feet while wearing the lens.</p>
 

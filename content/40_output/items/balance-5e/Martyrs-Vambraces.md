@@ -5,9 +5,9 @@ type: wondrous-item
 attunement: true
 cost_soulstones: 320000
 weight_lbs: 3
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - wondrous-item
@@ -25,7 +25,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-These leather forearm guards are tooled with an unbroken spiral — the rebel symbol for "truth spoken once echoes forever." They were strapped onto the arms of Elara, a former scribe who walked into Caesar's throne room unarmed, stood before his court, and listed every crime he had committed, by name, by date, by victim. She spoke for twelve minutes before the guards cut her down. Her last words — *"You cannot kill an idea"* — are stitched in silver thread along the inside of each vambrace, invisible when worn. The leather is warm, even in winter, as though her conviction still burns.
+These leather forearm guards are tooled with an unbroken spiral — the rebel symbol for "truth spoken once echoes forever." They were strapped onto the arms of Elara, a former scribe who walked into the imperial throne room unarmed, stood before the imperial court, and listed every crime he had committed, by name, by date, by victim. She spoke for twelve minutes before the guards cut her down. Her last words — *"You cannot kill an idea"* — are stitched in silver thread along the inside of each vambrace, invisible when worn. The leather is warm, even in winter, as though her conviction still burns.
 
 ---
 
@@ -72,7 +72,7 @@ A narrative-shattering item for social encounters and climactic confrontations. 
 ```html
 <p><em>Wondrous item, rare (requires attunement)</em></p>
 
-<p>These leather forearm guards are tooled with an unbroken spiral — the rebel symbol for "truth spoken once echoes forever." They were strapped onto the arms of Elara, a former scribe who walked into Caesar's throne room unarmed, stood before his court, and listed every crime he had committed, by name, by date, by victim. She spoke for twelve minutes before the guards cut her down. Her last words — "You cannot kill an idea" — are stitched in silver thread along the inside of each vambrace, invisible when worn. The leather is warm, even in winter, as though her conviction still burns.</p>
+<p>These leather forearm guards are tooled with an unbroken spiral — the rebel symbol for "truth spoken once echoes forever." They were strapped onto the arms of Elara, a former scribe who walked into the imperial throne room unarmed, stood before the imperial court, and listed every crime he had committed, by name, by date, by victim. She spoke for twelve minutes before the guards cut her down. Her last words — "You cannot kill an idea" — are stitched in silver thread along the inside of each vambrace, invisible when worn. The leather is warm, even in winter, as though her conviction still burns.</p>
 
 <p><strong>Last Truth (1/Long Rest).</strong> As an action, you can speak the words stitched inside the vambraces and declare your "Last Truth." For 1 minute, you cannot be silenced, gagged, or prevented from speaking by any magical or nonmagical means — spells such as silence fail to suppress your voice, and physical restraints cannot prevent your mouth from forming words. Additionally, all creatures of your choice within 60 feet of you understand the meaning of your words, regardless of what language you speak.</p>
 

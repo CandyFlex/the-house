@@ -9,9 +9,9 @@ weight_lbs: 4
 charges: 3
 recharge: "1d3 at dawn"
 save_dc: 15
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - weapon
@@ -30,7 +30,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-A scepter of black iron, unadorned except for a single groove worn into the haft where Caesar's grip rested over decades of judgment. It was slammed against the marble floor of his court to pronounce sentences — and behind every proclamation was the sound of that iron strike, the punctuation of doom. When the mob stormed the palace, a rebel named Jax seized the rod from Caesar's own hand before the tyrant could pronounce one final decree. Jax used it to smash the throne, then disappeared into the crowd. The rod still rings with a faint, dissonant chime when tapped against stone — the echo of every sentence it ever delivered.
+A scepter of black iron, unadorned except for a single groove worn into the haft where a tyrant's grip rested over decades of judgment. It was slammed against the marble floor of the imperial court to pronounce sentences — and behind every proclamation was the sound of that iron strike, the punctuation of doom. When the mob stormed the palace, a rebel named Jax seized the rod from the tyrant's own hand before he could pronounce one final decree. Jax used it to smash the throne, then disappeared into the crowd. The rod still rings with a faint, dissonant chime when tapped against stone — the echo of every sentence it ever delivered.
 
 ---
 
@@ -46,13 +46,13 @@ fantasy painterly illustration, visible brush strokes: a black iron scepter with
 
 **You have a +1 bonus to attack and damage rolls made with this magic weapon.**
 
-**Caesar's Authority.** The rod has 3 charges and regains 1d3 expended charges daily at dawn. While holding the rod, you can expend charges to cast the following spells from it (save DC 15):
+**Imperial Authority.** The rod has 3 charges and regains 1d3 expended charges daily at dawn. While holding the rod, you can expend charges to cast the following spells from it (save DC 15):
 
 - **Command** (1 charge) — 1st-level version.
 - **Zone of Truth** (2 charges) — when cast in this way, an iron circle etches itself into the ground around the casting point for the duration.
-- **Bestow Curse** (3 charges) — the target feels the crushing weight of Caesar's law.
+- **Bestow Curse** (3 charges) — the target feels the crushing weight of imperial law.
 
-**Recognized Judgment.** While holding the rod, you have advantage on Charisma (Intimidation) checks against any creature that recognizes it as Caesar's judgment-rod (a creature can recognize it with a successful DC 15 Intelligence (History) check). A creature that fails this check by 5 or more is certain it is just an ordinary iron mace.
+**Recognized Judgment.** While holding the rod, you have advantage on Charisma (Intimidation) checks against any creature that recognizes it as the imperial judgment-rod (a creature can recognize it with a successful DC 15 Intelligence (History) check). A creature that fails this check by 5 or more is certain it is just an ordinary iron mace.
 
 ---
 
@@ -68,13 +68,13 @@ fantasy painterly illustration, visible brush strokes: a black iron scepter with
 ---
 
 ## Balance Notes
-A hybrid weapon-caster item that gives martial characters limited spell access without multiclassing. The spell selection is thematic (law, command, curse) and the charge economy forces choices — use *zone of truth* on a prisoner or save the charge for *bestow curse* in combat. Recognized Judgment is situational but rewarding in campaigns where Caesar's legacy is known. Compare to a *staff of charming* (rare) — the rod trades charm-based control for law/curse utility and attaches it to a +1 weapon chassis, making it more appealing to frontline characters. The 3-charge cap with 1d3 recharge means you'll rarely have all three options available at once, which is appropriate for rare.
+A hybrid weapon-caster item that gives martial characters limited spell access without multiclassing. The spell selection is thematic (law, command, curse) and the charge economy forces choices — use *zone of truth* on a prisoner or save the charge for *bestow curse* in combat. Recognized Judgment is situational but rewarding in campaigns where the old empire's legacy is known. Compare to a *staff of charming* (rare) — the rod trades charm-based control for law/curse utility and attaches it to a +1 weapon chassis, making it more appealing to frontline characters. The 3-charge cap with 1d3 recharge means you'll rarely have all three options available at once, which is appropriate for rare.
 
 ---
 
 ## Variants
 - **Uncommon — Bailiff's Baton:** +1 mace. 2 charges (regain 1d2), *command* (1 charge) only. No *zone of truth*, no *bestow curse*, no Recognized Judgment. Requires attunement. Cost: ~90,000 soul stones.
-- **Very Rare — Scepter of Absolute Decree:** +2 mace. 5 charges (regain 1d4+1), spell list adds *compulsion* (3 charges) and *geas* (5 charges). Recognized Judgment applies to all creatures that have heard of Caesar (History DC 12). Additionally, 1/long rest you can cast *dominate person* (the target must obey as though under Caesar's direct command). Requires attunement. Cost: ~2,800,000 soul stones.
+- **Very Rare — Scepter of Absolute Decree:** +2 mace. 5 charges (regain 1d4+1), spell list adds *compulsion* (3 charges) and *geas* (5 charges). Recognized Judgment applies to all creatures that have heard of the old empire (History DC 12). Additionally, 1/long rest you can cast *dominate person* (the target must obey as though under a tyrant's direct command). Requires attunement. Cost: ~2,800,000 soul stones.
 
 ---
 
@@ -83,16 +83,16 @@ A hybrid weapon-caster item that gives martial characters limited spell access w
 ```html
 <p><em>Weapon (mace), rare (requires attunement)</em></p>
 
-<p>A scepter of black iron, unadorned except for a single groove worn into the haft where Caesar's grip rested over decades of judgment. It was slammed against the marble floor of his court to pronounce sentences — and behind every proclamation was the sound of that iron strike, the punctuation of doom. When the mob stormed the palace, a rebel named Jax seized the rod from Caesar's own hand before the tyrant could pronounce one final decree. Jax used it to smash the throne, then disappeared into the crowd. The rod still rings with a faint, dissonant chime when tapped against stone — the echo of every sentence it ever delivered.</p>
+<p>A scepter of black iron, unadorned except for a single groove worn into the haft where a tyrant's grip rested over decades of judgment. It was slammed against the marble floor of the imperial court to pronounce sentences — and behind every proclamation was the sound of that iron strike, the punctuation of doom. When the mob stormed the palace, a rebel named Jax seized the rod from the tyrant's own hand before he could pronounce one final decree. Jax used it to smash the throne, then disappeared into the crowd. The rod still rings with a faint, dissonant chime when tapped against stone — the echo of every sentence it ever delivered.</p>
 
 <p><strong>You have a +1 bonus to attack and damage rolls made with this magic weapon.</strong></p>
 
-<p><strong>Caesar's Authority.</strong> The rod has 3 charges and regains 1d3 expended charges daily at dawn. While holding the rod, you can expend charges to cast the following spells from it (save DC 15):</p>
+<p><strong>Imperial Authority.</strong> The rod has 3 charges and regains 1d3 expended charges daily at dawn. While holding the rod, you can expend charges to cast the following spells from it (save DC 15):</p>
 <p><strong>Command</strong> (1 charge) — 1st-level version.<br>
 <strong>Zone of Truth</strong> (2 charges) — when cast in this way, an iron circle etches itself into the ground around the casting point for the duration.<br>
-<strong>Bestow Curse</strong> (3 charges) — the target feels the crushing weight of Caesar's law.</p>
+<strong>Bestow Curse</strong> (3 charges) — the target feels the crushing weight of imperial law.</p>
 
-<p><strong>Recognized Judgment.</strong> While holding the rod, you have advantage on Charisma (Intimidation) checks against any creature that recognizes it as Caesar's judgment-rod (a creature can recognize it with a successful DC 15 Intelligence (History) check). A creature that fails this check by 5 or more is certain it is just an ordinary iron mace.</p>
+<p><strong>Recognized Judgment.</strong> While holding the rod, you have advantage on Charisma (Intimidation) checks against any creature that recognizes it as the imperial judgment-rod (a creature can recognize it with a successful DC 15 Intelligence (History) check). A creature that fails this check by 5 or more is certain it is just an ordinary iron mace.</p>
 
 <table>
 <tr><td style="padding-right:16px;font-weight:bold;">Rarity</td><td>Rare</td></tr>

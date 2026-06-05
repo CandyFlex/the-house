@@ -1,6 +1,6 @@
 # Balance 5e — Item Index
 
-*Caesar's era and the Red floor's initial stabilization. Relics of gladiatorial Rome, infernal oppression, slave revolts, and freedom bought in blood.*
+*A bygone age and the Red floor's initial stabilization. Relics of gladiatorial arenas, imperial oppression, slave revolts, and freedom bought in blood.*
 
 ## Items by Rarity
 
@@ -40,10 +40,10 @@
 
 | Location | Hex | Difficulty | Items Found |
 |----------|-----|-----------|-------------|
-| **Caesar's Arena — Gladiator Pits** | Red Floor, Lower Cells | Easy–Medium | Gladiator's Last Breath, Slave-Brand Bracers, Red Sand Cloak, Chain-Breaker's Ring, Lion-Tamer's Whip, Sand-Walker Boots |
-| **Caesar's Arena — Upper Stands / Gatehouses** | Red Floor, Mid-Level | Medium | Insurgent's Whistle, Hundred-Death Shield, Pit-Fighter's Plate, Ember-Eye Lens |
-| **Caesar's Palace — Court & Throne Room** | Red Floor, Upper Level | Hard | Orator's Torc, Martyr's Vambraces, Iron-Decree Rod, Praetorian Guard Armor, Liberator's Edge |
-| **Caesar's Palace — Inner Sanctum / Vault** | Red Floor, Core | Hard–Deadly | Arena-Blessed Amulet, Siege-Breaker, Red-Floor Relic |
+| **The Arena — Gladiator Pits** | Red Floor, Lower Cells | Easy–Medium | Gladiator's Last Breath, Slave-Brand Bracers, Red Sand Cloak, Chain-Breaker's Ring, Lion-Tamer's Whip, Sand-Walker Boots |
+| **The Arena — Upper Stands / Gatehouses** | Red Floor, Mid-Level | Medium | Insurgent's Whistle, Hundred-Death Shield, Pit-Fighter's Plate, Ember-Eye Lens |
+| **The Imperial Palace — Court & Throne Room** | Red Floor, Upper Level | Hard | Orator's Torc, Martyr's Vambraces, Iron-Decree Rod, Praetorian Guard Armor, Liberator's Edge |
+| **The Imperial Palace — Inner Sanctum / Vault** | Red Floor, Core | Hard–Deadly | Arena-Blessed Amulet, Siege-Breaker, Red-Floor Relic |
 
 ---
 
@@ -65,7 +65,7 @@
 
 ---
 
-*18 items. Source: The House — Caesar's Legacy, Red Floor stabilization.*
+*18 items. Source: The House — Legacy Items, Red Floor stabilization.*
 
 ## Also in This Collection (Standalone)
 

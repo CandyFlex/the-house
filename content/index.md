@@ -12,7 +12,7 @@ title: The House
 
 → **[Named Blades](40_output/items/named-blades)** — Twenty legendary-forged weapons with true names and Awakened States.
 
-→ **[Legacy Items](40_output/items/balance-5e)** — Twenty relics from Caesar's era — gladiator gear, rebel armaments, imperial regalia.
+→ **[Legacy Items](40_output/items/balance-5e)** — Legacy items from a bygone age — gladiator gear, rebel armaments, imperial regalia.
 
 → **[Floor 1 — Red](floor-01)** — the threshold. Dungeons, soul storms, coastline, IO, and the Originator of Freedom.
 

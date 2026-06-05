@@ -5,9 +5,9 @@ type: wondrous-item
 attunement: true
 cost_soulstones: 2500000
 weight_lbs: 0.5
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - wondrous-item
@@ -25,7 +25,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-This amulet is a small bloodstone sphere suspended in a cage of twisted iron — inside, a pinch of sand from Caesar's arena swirls in a single drop of blood contributed by every gladiator who ever won their freedom. There were only seven in the history of the pits. When the last of them, a woman named Antonia, walked out of the arena a free woman, she cut her palm and let the blood fall onto the sand of the floor, mixing with the ghosts of everyone who had bled there. An artificer-sympathizer captured that moment in this amulet. It is warm against the chest, and when held to the ear, you can hear a distant roar — not of pain, but of a crowd cheering for the underdog.
+This amulet is a small bloodstone sphere suspended in a cage of twisted iron — inside, a pinch of sand from the blood-sands swirls in a single drop of blood contributed by every gladiator who ever won their freedom. There were only seven in the history of the pits. When the last of them, a woman named Antonia, walked out of the arena a free woman, she cut her palm and let the blood fall onto the sand of the floor, mixing with the ghosts of everyone who had bled there. An artificer-sympathizer captured that moment in this amulet. It is warm against the chest, and when held to the ear, you can hear a distant roar — not of pain, but of a crowd cheering for the underdog.
 
 ---
 
@@ -74,7 +74,7 @@ A momentum-swinging item for aggressive party leaders. Opening Roar gives the we
 ```html
 <p><em>Wondrous item, very rare (requires attunement)</em></p>
 
-<p>This amulet is a small bloodstone sphere suspended in a cage of twisted iron — inside, a pinch of sand from Caesar's arena swirls in a single drop of blood contributed by every gladiator who ever won their freedom. There were only seven in the history of the pits. When the last of them, a woman named Antonia, walked out of the arena a free woman, she cut her palm and let the blood fall onto the sand of the floor, mixing with the ghosts of everyone who had bled there. An artificer-sympathizer captured that moment in this amulet. It is warm against the chest, and when held to the ear, you can hear a distant roar — not of pain, but of a crowd cheering for the underdog.</p>
+<p>This amulet is a small bloodstone sphere suspended in a cage of twisted iron — inside, a pinch of sand from the blood-sands swirls in a single drop of blood contributed by every gladiator who ever won their freedom. There were only seven in the history of the pits. When the last of them, a woman named Antonia, walked out of the arena a free woman, she cut her palm and let the blood fall onto the sand of the floor, mixing with the ghosts of everyone who had bled there. An artificer-sympathizer captured that moment in this amulet. It is warm against the chest, and when held to the ear, you can hear a distant roar — not of pain, but of a crowd cheering for the underdog.</p>
 
 <p><strong>Opening Roar.</strong> When you roll initiative while wearing this amulet, you gain temporary hit points equal to 2d10 + your level. The roar of an unseen crowd surges in your ears.</p>
 

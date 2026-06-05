@@ -42,7 +42,7 @@ Every dungeon page includes:
 
 ## The Meta
 
-These dungeons are not natural. They are IO's expression of freedom imposed over Caesar's cruelty-scape. Each one is a pocket reality that absorbs the floor's ambient history — the frozen geode cathedral remembers the cold of Caesar's reign, the fungal cavern drinks from the decay he left behind. As you clear and maintain them, they evolve. Completed dungeons collapse and merge, spawning something new. IO decides what direction the new spawn takes.
+These dungeons are not natural. They are IO's expression of freedom imposed over the old empire's cruelty-scape. Each one is a pocket reality that absorbs the floor's ambient history — the frozen geode cathedral remembers the cold of an ancient age, the fungal cavern drinks from the decay the old order left behind. As you clear and maintain them, they evolve. Completed dungeons collapse and merge, spawning something new. IO decides what direction the new spawn takes.
 
 You are the maintenance crew. The backstage. The wind that changes what grows here.
 
@@ -54,5 +54,5 @@ You are the maintenance crew. The backstage. The wind that changes what grows he
 |---------|-------|-------------|-------------------|
 | [Crystal Trench](crystal-trench) | Frozen geode / cold / light | Spiral staircase carved into a maintenance shaft 200 yds east of public entrance | Clean (minor resonance echoes in Refracting Gallery) |
 | [Fungal Depths](fungal-depths) | Bioluminescent fungus / poison / decay | Root-ladder through a collapsed vent 150 yds north | Light corruption (mycelium creeping into interstitial layer) |
-| [Iron Crucible](iron-crucible) | Hellish forge / fire / metal | Ore-delivery chute 300 yds east of public entrance, collapsed — DC 12 Athletics to climb | Moderate corruption (forge producing weapons without input — memory bleed from Caesar's armory protocols) |
+| [Iron Crucible](iron-crucible) | Hellish forge / fire / metal | Ore-delivery chute 300 yds east of public entrance, collapsed — DC 12 Athletics to climb | Moderate corruption (forge producing weapons without input — memory bleed from the old imperial armory protocols) |
 | [Glass Cathedral](glass-cathedral) | Resonant glass / sound / light | Bell Tower service stair hidden behind false stained-glass panel in southern transept — visible only with a Cathedral attunement item | Heavy corruption (accumulated whispers forming a fractured consciousness — the glass has gone feral) |

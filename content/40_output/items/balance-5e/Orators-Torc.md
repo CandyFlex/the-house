@@ -6,9 +6,9 @@ attunement: true
 cost_soulstones: 250000
 weight_lbs: 1
 save_dc: 15
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - wondrous-item
@@ -25,7 +25,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-A heavy golden neck-ring, open at the throat and tipped with two eagle heads that face one another — the sigil of Caesar's propaganda corps. These torcs were worn by the speech-writers and criers who translated Caesar's atrocities into the language of glory. The last to wear this one was a man named Silvius, who spent a decade convincing the populace that the arena was justice. On the night of the revolt, he used the torc's power to convince the gate guards to abandon their posts — then walked into the mob and was never seen again. When you wear it, your words feel heavier, as though each syllable has been dipped in gold leaf.
+A heavy golden neck-ring, open at the throat and tipped with two eagle heads that face one another — the sigil of the old empire's propaganda corps. These torcs were worn by the speech-writers and criers who translated the empire's atrocities into the language of glory. The last to wear this one was a man named Silvius, who spent a decade convincing the populace that the arena was justice. On the night of the revolt, he used the torc's power to convince the gate guards to abandon their posts — then walked into the mob and was never seen again. When you wear it, your words feel heavier, as though each syllable has been dipped in gold leaf.
 
 ---
 
@@ -74,7 +74,7 @@ A social powerhouse with one solid combat option. The crowd-only restriction on 
 ```html
 <p><em>Wondrous item, rare (requires attunement)</em></p>
 
-<p>A heavy golden neck-ring, open at the throat and tipped with two eagle heads that face one another — the sigil of Caesar's propaganda corps. These torcs were worn by the speech-writers and criers who translated Caesar's atrocities into the language of glory. The last to wear this one was a man named Silvius, who spent a decade convincing the populace that the arena was justice. On the night of the revolt, he used the torc's power to convince the gate guards to abandon their posts — then walked into the mob and was never seen again. When you wear it, your words feel heavier, as though each syllable has been dipped in gold leaf.</p>
+<p>A heavy golden neck-ring, open at the throat and tipped with two eagle heads that face one another — the sigil of the old empire's propaganda corps. These torcs were worn by the speech-writers and criers who translated the empire's atrocities into the language of glory. The last to wear this one was a man named Silvius, who spent a decade convincing the populace that the arena was justice. On the night of the revolt, he used the torc's power to convince the gate guards to abandon their posts — then walked into the mob and was never seen again. When you wear it, your words feel heavier, as though each syllable has been dipped in gold leaf.</p>
 
 <p><strong>Voice of the Crowd.</strong> While wearing this torc, you have advantage on Charisma (Persuasion) and Charisma (Deception) checks made when speaking to a group of ten or more creatures that can hear and understand you.</p>
 

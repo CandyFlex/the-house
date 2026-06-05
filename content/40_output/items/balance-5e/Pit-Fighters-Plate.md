@@ -6,9 +6,9 @@ subtype: "breastplate"
 attunement: true
 cost_soulstones: 400000
 weight_lbs: 20
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - armor

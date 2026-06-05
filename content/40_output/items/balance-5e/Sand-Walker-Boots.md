@@ -5,9 +5,9 @@ type: wondrous-item
 attunement: true
 cost_soulstones: 180000
 weight_lbs: 2
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - wondrous-item

@@ -12,7 +12,7 @@ title: "Fungal Depths"
 
 A sinkhole in the forest floor, tangled with ancient roots, exhaling warm damp air that smells of sweet rot and wet stone. The depths below are a sprawling cavern ruled by fungus — shelf mushrooms the size of buildings, veins of bioluminescent purple and toxic green pulsing through every surface, spores drifting in lazy currents. At the heart, a colossal mushroom with a cracked cap rains golden spores into a garden of impossible density. The mycelium network beneath your feet is alive and aware. It does not think — but it remembers.
 
-**Style ideology:** Decay as renewal. The Depths are the counterpoint to the Crystal Trench — where the Trench is frozen order, the Depths are warm entropy. Everything here is in a state of becoming something else. The mushrooms consume the dead and bloom from their bones. The spores carry memory. The air itself is thick with transformation. This is Caesar's cruelty decomposing — the rot his reign left behind, now turning into soil.
+**Style ideology:** Decay as renewal. The Depths are the counterpoint to the Crystal Trench — where the Trench is frozen order, the Depths are warm entropy. Everything here is in a state of becoming something else. The mushrooms consume the dead and bloom from their bones. The spores carry memory. The air itself is thick with transformation. This is the old world's cruelty decomposing — the rot the old order left behind, now turning into soil.
 
 ---
 
@@ -26,7 +26,7 @@ Daily cycle. Resets at midnight. Weekly phase-lock: closed on Mournsday (the fun
 
 ## Admin Sub-Entrance
 
-One hundred fifty yards north of the public sinkhole, a collapsed vent hidden beneath a fallen oak. The vent was part of Caesar's old geothermal survey — abandoned when the survey team never returned. A root-ladder descends through the vent shaft: thick, woody fungal growths that form handholds and footholds, pulsing faintly violet. The roots respond to touch, tightening their grip when you step, loosening when you reach for the next rung.
+One hundred fifty yards north of the public sinkhole, a collapsed vent hidden beneath a fallen oak. The vent was part of an old imperial geothermal survey — abandoned when the survey team never returned. A root-ladder descends through the vent shaft: thick, woody fungal growths that form handholds and footholds, pulsing faintly violet. The roots respond to touch, tightening their grip when you step, loosening when you reach for the next rung.
 
 The ladder deposits you into the **Interstitial Layer** — a narrow, humid crawlspace between the dungeon's pocket realm and the floor's reality. Here, the walls are not stone but compressed mycelium, white and fibrous, shot through with veins of bioluminescent fluid. You can see the rooms below through translucent fungal membranes: the spore-choked entrance, the shelf-fungus terraces, the rot garden, the colossal mushroom. Maintenance hatches — circular openings ringed in a sphincter of pale fungus — are positioned in the ceiling of each room. They open when touched with an attuned item from the Depths' pool.
 
@@ -119,7 +119,7 @@ The ladder deposits you into the **Interstitial Layer** — a narrow, humid craw
   - **Spore Surge:** Intensifies all poison effects in the chamber (adds +1d6 to all poison damage, increases save DCs by 2). Hard mode.
   - **Hasten Collapse:** The Sovereign enters Phase 2 immediately at 25% HP rather than 50%. For speed-running parties.
   - **Emergency Harvest:** Forces the treasure room to open without defeating the Sovereign. The Sovereign remains alive and hostile. The items inside are random (no admin selection). This is an extraction, not a victory.
-- *Admin dialogue:* The Sovereign speaks in complete sentences, unlike the Rotwarden. It is old — perhaps older than the dungeon. It refers to IO by name and asks after Caesar with what might be contempt. It knows the spiral pattern appears in both this dungeon and the Crystal Trench. It will not explain what it means. *"Some things grow toward each other. That is enough."*
+- *Admin dialogue:* The Sovereign speaks in complete sentences, unlike the Rotwarden. It is old — perhaps older than the dungeon. It refers to IO by name and speaks of the old empire with what might be contempt. It knows the spiral pattern appears in both this dungeon and the Crystal Trench. It will not explain what it means. *"Some things grow toward each other. That is enough."*
 
 **Boss drop items (random 2–3 from pool):** Heart of the Mycelium, Crown of the Spore Sovereign, Scepter of Spore Sovereignty.
 

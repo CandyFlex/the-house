@@ -12,7 +12,7 @@ title: "Glass Cathedral"
 
 The Glass Cathedral is an impossible structure — a cathedral built entirely of crystalline glass, resonant and alive. Every sound echoes forever in harmonic layers. Light fractures through prismatic panes into cascading color. The floor is a mirrored mosaic; the ceiling, a kaleidoscope. But the glass is sharp. It sings. It remembers the voices of everyone who ever spoke within it, and it answers back.
 
-The Cathedral was Caesar's chapel — not for worship, but for confession. He brought prisoners here, made them speak their sins and secrets, and the glass recorded everything. Now abandoned, the Cathedral has gone feral — the accumulated whispers have become a chorus, a fractured consciousness that speaks in a thousand voices at once.
+The Cathedral was the old empire's chapel — not for worship, but for confession. Prisoners were brought here, made to speak their sins and secrets, and the glass recorded everything. Now abandoned, the Cathedral has gone feral — the accumulated whispers have become a chorus, a fractured consciousness that speaks in a thousand voices at once.
 
 Style ideology: Beauty as archive. The Cathedral is the memory of a tyrant's justice — every confession, every plea, every scream preserved in crystalline resonance. It is a library written in sound and light, and it is very, very lonely.
 
@@ -41,7 +41,7 @@ A maintenance access: the Bell Tower's service stair. A narrow spiral staircase 
 
 ### Node 1 — The Nave of Echoes
 
-**Public experience:** The Nave is the Cathedral's main hall — a vast space of mirrored floors and glass columns. Every footstep rings and returns a hundredfold. Visibility is perfect but sound is chaos — creatures navigating the Nave have disadvantage on Perception checks that rely on hearing. Three Glass Choirists (use banshee stats, replace wail with: Cacophony — all creatures in 30ft take 3d6 thunder and must make CON save or be deafened for 1 minute) drift through the columns, singing in cracked-glass harmony. They are the preserved voices of Caesar's choir, forever rehearsing a hymn to a man who never listened.
+**Public experience:** The Nave is the Cathedral's main hall — a vast space of mirrored floors and glass columns. Every footstep rings and returns a hundredfold. Visibility is perfect but sound is chaos — creatures navigating the Nave have disadvantage on Perception checks that rely on hearing. Three Glass Choirists (use banshee stats, replace wail with: Cacophony — all creatures in 30ft take 3d6 thunder and must make CON save or be deafened for 1 minute) drift through the columns, singing in cracked-glass harmony. They are the preserved voices of the imperial choir, forever rehearsing a hymn to a man who never listened.
 
 **Room challenge:** Combat in overwhelming noise. The Choirists' song stacks — if two sing simultaneously in overlapping areas, creatures make saves at disadvantage. The mirrored floor makes hiding impossible (no cover, no concealment).
 

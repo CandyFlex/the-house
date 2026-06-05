@@ -26,7 +26,7 @@ The entrance is always open. Daily cycle. Resets at midnight.
 
 ## Admin Sub-Entrance
 
-Two hundred yards east of the public chasm, behind a collapsed watchtower from Caesar's occupation, a maintenance shaft descends straight into the earth. It is a spiral staircase carved from the same blue-white geode that lines the dungeon — but here the crystal is dark, dormant, waiting. A narrow slot at the top accepts an admin token (any attuned item from the Trench's pool). The staircase illuminates step by step as you descend, shedding cold light only where you are about to place your foot.
+Two hundred yards east of the public chasm, behind a collapsed watchtower from the old imperial occupation, a maintenance shaft descends straight into the earth. It is a spiral staircase carved from the same blue-white geode that lines the dungeon — but here the crystal is dark, dormant, waiting. A narrow slot at the top accepts an admin token (any attuned item from the Trench's pool). The staircase illuminates step by step as you descend, shedding cold light only where you are about to place your foot.
 
 The shaft deposits you into the **Interstitial Layer** — the liminal space between the dungeon's pocket realm and Floor 1's reality. Here, the dungeon is transparent. You can see the rooms below you through walls of what appears to be thick ice: the entrance crevasse, the refracting gallery, the frozen vault, the heart chamber. Each room has a maintenance hatch in its ceiling — a hexagonal plate of darker crystal that opens only from this side. You can drop into any room from above, or traverse the interstitial walkways that connect them.
 
@@ -107,7 +107,7 @@ The shaft deposits you into the **Interstitial Layer** — the liminal space bet
   - **Pacify:** Freezes the Sentinel for 30 seconds — enough time to extract an admin trapped in the chamber or adjust the treasure pool mid-fight.
   - **Phase Skip:** Forces the Sentinel directly to Phase 2. Useful when delvers are struggling and you want to check if they can handle the pressure.
   - **Emergency Shutdown:** Collapses the pocket realm immediately, ejecting all delvers to the entrance. Use only if the dungeon is corrupted or a delver is about to die permanently.
-- *Corruption check:* The geode's light shows faint interference patterns — ripples in the blue-white that shouldn't be there. Pre-Caesar residue, possibly. The frozen body in the vault was pointing here. Monitor.
+- *Corruption check:* The geode's light shows faint interference patterns — ripples in the blue-white that shouldn't be there. Ancient residue, possibly. The frozen body in the vault was pointing here. Monitor.
 
 **Boss drop items (random 1–2 from pool):** Geode Heart, Geode Aegis, Geode Chrysalis Helm, Rime-Kissed Plate.
 

@@ -5,16 +5,15 @@ type: ring
 attunement: true
 cost_soulstones: 40000
 weight_lbs: 0.1
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - ring
   - escape
   - freedom
   - restraint
-  - rebellion
 date_created: 2026-06-05
 ---
 
@@ -24,7 +23,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-This ring was forged from the broken manacle of Lyra, the slave who led the first mass escape from Caesar's pits through the sewer channels beneath the arena. She filed through her chains with a stolen nail over six months, then freed forty others on the night of the blood-moon. Lyra didn't survive the escape — she stayed behind to hold a gate — but her manacle was recovered by those who made it out. The ring is crude iron, shaped like a serpent biting its own tail, and it is always cold against the skin.
+This ring was forged from the broken manacle of Lyra, the slave who led the great escape from the iron pits through the sewer channels beneath the arena. She filed through her chains with a stolen nail over six months, then freed forty others on the night of the blood-moon. Lyra didn't survive the escape — she stayed behind to hold a gate — but her manacle was recovered by those who made it out. The ring is crude iron, shaped like a serpent biting its own tail, and it is always cold against the skin.
 
 ---
 
@@ -71,7 +70,7 @@ The passive escape advantage is narrow but flavorful — useful against grapple-
 ```html
 <p><em>Ring, uncommon (requires attunement)</em></p>
 
-<p>This ring was forged from the broken manacle of Lyra, the slave who led the first mass escape from Caesar's pits through the sewer channels beneath the arena. She filed through her chains with a stolen nail over six months, then freed forty others on the night of the blood-moon. Lyra didn't survive the escape — she stayed behind to hold a gate — but her manacle was recovered by those who made it out. The ring is crude iron, shaped like a serpent biting its own tail, and it is always cold against the skin.</p>
+<p>This ring was forged from the broken manacle of Lyra, the slave who led the great escape from the iron pits through the sewer channels beneath the arena. She filed through her chains with a stolen nail over six months, then freed forty others on the night of the blood-moon. Lyra didn't survive the escape — she stayed behind to hold a gate — but her manacle was recovered by those who made it out. The ring is crude iron, shaped like a serpent biting its own tail, and it is always cold against the skin.</p>
 
 <p><strong>Unbound.</strong> While wearing this ring, you have advantage on ability checks made to escape grapples, restraints, manacles, bindings, or any nonmagical effect that physically restrains or confines you.</p>
 

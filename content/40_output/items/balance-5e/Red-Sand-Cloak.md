@@ -6,9 +6,9 @@ attunement: true
 cost_soulstones: 35000
 weight_lbs: 3
 save_dc: 13
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - wondrous-item
@@ -26,7 +26,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-This hooded cloak is dyed a permanent rust-red — not with pigment, but with the blood-soaked sand of Caesar's arena, gathered in secret by a sand-raker named Theron who carried fistfuls of it out each night in the lining of his tunic. After a year, he had enough to dye a single cloak and gift it to the resistance. The fabric is perpetually gritty to the touch and carries the faint iron smell of dried blood. When the hood is raised, the sand within the weave shifts almost imperceptibly, as though the arena floor still churns beneath.
+This hooded cloak is dyed a permanent rust-red — not with pigment, but with the blood-soaked sand of the blood-sands, gathered in secret by a sand-raker named Theron who carried fistfuls of it out each night in the lining of his tunic. After a year, he had enough to dye a single cloak and gift it to the resistance. The fabric is perpetually gritty to the touch and carries the faint iron smell of dried blood. When the hood is raised, the sand within the weave shifts almost imperceptibly, as though the arena floor still churns beneath.
 
 ---
 
@@ -73,7 +73,7 @@ The stealth advantage is a conditional *cloak of elvenkind* (uncommon) — narro
 ```html
 <p><em>Wondrous item, uncommon (requires attunement)</em></p>
 
-<p>This hooded cloak is dyed a permanent rust-red — not with pigment, but with the blood-soaked sand of Caesar's arena, gathered in secret by a sand-raker named Theron who carried fistfuls of it out each night in the lining of his tunic. After a year, he had enough to dye a single cloak and gift it to the resistance. The fabric is perpetually gritty to the touch and carries the faint iron smell of dried blood. When the hood is raised, the sand within the weave shifts almost imperceptibly, as though the arena floor still churns beneath.</p>
+<p>This hooded cloak is dyed a permanent rust-red — not with pigment, but with the blood-soaked sand of the blood-sands, gathered in secret by a sand-raker named Theron who carried fistfuls of it out each night in the lining of his tunic. After a year, he had enough to dye a single cloak and gift it to the resistance. The fabric is perpetually gritty to the touch and carries the faint iron smell of dried blood. When the hood is raised, the sand within the weave shifts almost imperceptibly, as though the arena floor still churns beneath.</p>
 
 <p><strong>Blood-Sand Camouflage.</strong> While wearing this cloak in dim light or darkness, you have advantage on Dexterity (Stealth) checks.</p>
 

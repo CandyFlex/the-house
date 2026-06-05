@@ -6,9 +6,9 @@ subtype: "shield"
 attunement: true
 cost_soulstones: 280000
 weight_lbs: 6
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - armor
@@ -25,7 +25,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-This tower shield is covered in tally marks — exactly one hundred, each carved by a different hand. It was passed from gladiator to gladiator in Caesar's pits, each survivor adding their mark after watching a friend fall. The gouges are uneven: some are deep and angry, others shallow and trembling. The hundredth mark was carved by a child named Livia, who survived Caesar's purge of the slave quarters by hiding beneath a pile of bodies — she scratched her line with a broken spoon while the soldiers were still in the next room. The shield remembers every death it has witnessed, and it will not let the next one pass unmarked.
+This tower shield is covered in tally marks — exactly one hundred, each carved by a different hand. It was passed from gladiator to gladiator in the iron pits, each survivor adding their mark after watching a friend fall. The gouges are uneven: some are deep and angry, others shallow and trembling. The hundredth mark was carved by a child named Livia, who survived the old empire's purge of the slave quarters by hiding beneath a pile of bodies — she scratched her line with a broken spoon while the soldiers were still in the next room. The shield remembers every death it has witnessed, and it will not let the next one pass unmarked.
 
 ---
 
@@ -72,7 +72,7 @@ A high-risk, high-reward defensive item. The +1 shield base puts it at uncommon-
 ```html
 <p><em>Armor (shield), rare (requires attunement)</em></p>
 
-<p>This tower shield is covered in tally marks — exactly one hundred, each carved by a different hand. It was passed from gladiator to gladiator in Caesar's pits, each survivor adding their mark after watching a friend fall. The gouges are uneven: some are deep and angry, others shallow and trembling. The hundredth mark was carved by a child named Livia, who survived Caesar's purge of the slave quarters by hiding beneath a pile of bodies — she scratched her line with a broken spoon while the soldiers were still in the next room. The shield remembers every death it has witnessed, and it will not let the next one pass unmarked.</p>
+<p>This tower shield is covered in tally marks — exactly one hundred, each carved by a different hand. It was passed from gladiator to gladiator in the iron pits, each survivor adding their mark after watching a friend fall. The gouges are uneven: some are deep and angry, others shallow and trembling. The hundredth mark was carved by a child named Livia, who survived the old empire's purge of the slave quarters by hiding beneath a pile of bodies — she scratched her line with a broken spoon while the soldiers were still in the next room. The shield remembers every death it has witnessed, and it will not let the next one pass unmarked.</p>
 
 <p><strong>You have a +1 bonus to AC while holding this shield.</strong></p>
 

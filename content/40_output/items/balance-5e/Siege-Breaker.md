@@ -7,9 +7,9 @@ attunement: true
 cost_soulstones: 3000000
 weight_lbs: 10
 save_dc: 17
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - weapon
@@ -27,7 +27,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-This maul's head is a single block of black granite veined with red — granite taken from the threshold of Caesar's palace, shattered on the night of the final revolt. A slave-turned-sapper named Goran swung this maul for six hours against the palace gate, trading off with two other rebels when his arms gave out. When the gate finally cracked, the maul's head fractured too — a spiderweb of fissures that still hold, impossibly, as though the weapon refuses to break before the next wall falls. Goran died three days later of his wounds, but he died outside the palace, a free man, with the maul still in his hands.
+This maul's head is a single block of black granite veined with red — granite taken from the threshold of the imperial palace, shattered on the night of the final revolt against the old empire. A slave-turned-sapper named Goran swung this maul for six hours against the palace gate, trading off with two other rebels when his arms gave out. When the gate finally cracked, the maul's head fractured too — a spiderweb of fissures that still hold, impossibly, as though the weapon refuses to break before the next wall falls. Goran died three days later of his wounds, but he died outside the palace, a free man, with the maul still in his hands.
 
 ---
 
@@ -78,7 +78,7 @@ A siege weapon that transforms encounters with fortifications, barriers, and ent
 ```html
 <p><em>Weapon (maul), very rare (requires attunement)</em></p>
 
-<p>This maul's head is a single block of black granite veined with red — granite taken from the threshold of Caesar's palace, shattered on the night of the final revolt. A slave-turned-sapper named Goran swung this maul for six hours against the palace gate, trading off with two other rebels when his arms gave out. When the gate finally cracked, the maul's head fractured too — a spiderweb of fissures that still hold, impossibly, as though the weapon refuses to break before the next wall falls. Goran died three days later of his wounds, but he died outside the palace, a free man, with the maul still in his hands.</p>
+<p>This maul's head is a single block of black granite veined with red — granite taken from the threshold of the imperial palace, shattered on the night of the final revolt against the old empire. A slave-turned-sapper named Goran swung this maul for six hours against the palace gate, trading off with two other rebels when his arms gave out. When the gate finally cracked, the maul's head fractured too — a spiderweb of fissures that still hold, impossibly, as though the weapon refuses to break before the next wall falls. Goran died three days later of his wounds, but he died outside the palace, a free man, with the maul still in his hands.</p>
 
 <p><strong>You have a +2 bonus to attack and damage rolls made with this magic weapon.</strong></p>
 

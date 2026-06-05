@@ -5,9 +5,9 @@ type: wondrous-item
 attunement: true
 cost_soulstones: 30000
 weight_lbs: 4
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - wondrous-item
@@ -24,7 +24,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-These heavy iron bracers were heated until they glowed and pressed onto the forearms of Cassia, a slave who organized a work-stoppage in Caesar's quarries. The branding left her flesh permanently scarred with Caesar's seal — a screaming eagle wreathed in chains — but it also left her unbreakable. After a tyrant has burned his mark into your skin, what threat can a lesser master possibly make? The bracers still radiate faint warmth, as though the forge-fire of that day has never fully died.
+These heavy iron bracers were heated until they glowed and pressed onto the forearms of Cassia, a slave who organized a work-stoppage in the old empire's quarries. The branding left her flesh permanently scarred with the imperial seal — a screaming eagle wreathed in chains — but it also left her unbreakable. After a tyrant has burned his mark into your skin, what threat can a lesser master possibly make? The bracers still radiate faint warmth, as though the forge-fire of that day has never fully died.
 
 ---
 
@@ -71,7 +71,7 @@ The mental defense is tightly scoped: it only works against creatures of higher 
 ```html
 <p><em>Wondrous item, uncommon (requires attunement)</em></p>
 
-<p>These heavy iron bracers were heated until they glowed and pressed onto the forearms of Cassia, a slave who organized a work-stoppage in Caesar's quarries. The branding left her flesh permanently scarred with Caesar's seal — a screaming eagle wreathed in chains — but it also left her unbreakable. After a tyrant has burned his mark into your skin, what threat can a lesser master possibly make? The bracers still radiate faint warmth, as though the forge-fire of that day has never fully died.</p>
+<p>These heavy iron bracers were heated until they glowed and pressed onto the forearms of Cassia, a slave who organized a work-stoppage in the old empire's quarries. The branding left her flesh permanently scarred with the imperial seal — a screaming eagle wreathed in chains — but it also left her unbreakable. After a tyrant has burned his mark into your skin, what threat can a lesser master possibly make? The bracers still radiate faint warmth, as though the forge-fire of that day has never fully died.</p>
 
 <p><strong>Already Broken.</strong> While wearing these bracers, you have advantage on saving throws against being charmed or frightened by a creature whose challenge rating is higher than your level. You have already endured worse than anything they can do to your mind.</p>
 

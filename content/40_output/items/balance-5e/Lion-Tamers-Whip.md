@@ -7,9 +7,9 @@ attunement: true
 cost_soulstones: 350000
 weight_lbs: 3
 save_dc: 15
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - weapon
@@ -26,7 +26,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-This braided leather whip is wrapped at the grip with the tawny fur of a Nemean lion that Caesar imported for his arena's centennial games. The whip belonged to Kaelus — the only beastmaster in the history of the pits to survive one hundred bouts. He didn't survive through cruelty; he survived because the beasts respected him more than they feared Caesar. On his hundredth bout, he opened every cage and let the lions choose their own targets. The whip still carries the faint musk of lion and the sharper scent of an old man's defiance.
+This braided leather whip is wrapped at the grip with the tawny fur of a Nemean lion that a tyrant imported for the arena's centennial games. The whip belonged to Kaelus — the only beastmaster in the history of the pits to survive one hundred bouts. He didn't survive through cruelty; he survived because the beasts respected him more than they feared the tyrant. On his hundredth bout, he opened every cage and let the lions choose their own targets. The whip still carries the faint musk of lion and the sharper scent of an old man's defiance.
 
 ---
 
@@ -77,7 +77,7 @@ A battlefield control weapon that rewards tactical positioning. +1 puts it at th
 ```html
 <p><em>Weapon (whip), rare (requires attunement)</em></p>
 
-<p>This braided leather whip is wrapped at the grip with the tawny fur of a Nemean lion that Caesar imported for his arena's centennial games. The whip belonged to Kaelus — the only beastmaster in the history of the pits to survive one hundred bouts. He didn't survive through cruelty; he survived because the beasts respected him more than they feared Caesar. On his hundredth bout, he opened every cage and let the lions choose their own targets. The whip still carries the faint musk of lion and the sharper scent of an old man's defiance.</p>
+<p>This braided leather whip is wrapped at the grip with the tawny fur of a Nemean lion that a tyrant imported for the arena's centennial games. The whip belonged to Kaelus — the only beastmaster in the history of the pits to survive one hundred bouts. He didn't survive through cruelty; he survived because the beasts respected him more than they feared the tyrant. On his hundredth bout, he opened every cage and let the lions choose their own targets. The whip still carries the faint musk of lion and the sharper scent of an old man's defiance.</p>
 
 <p><strong>You have a +1 bonus to attack and damage rolls made with this magic weapon.</strong></p>
 

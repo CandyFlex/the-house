@@ -6,9 +6,9 @@ attunement: true
 cost_soulstones: 3500000
 weight_lbs: 1
 save_dc: 20
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - wondrous-item
@@ -26,7 +26,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-A small obsidian pyramid, black as void-glass and perfectly smooth on five faces — but the sixth, the base, is rough and unfinished, as though it was snapped off something larger. Inside the pyramid, visible when held to light, is a frozen moment: a single second of the Red floor's stabilization, captured when IO's architecture locked Caesar's chaos into order. Tiny motes of crimson light hang motionless within the obsidian, frozen mid-swirl. The relic was found in the rubble of Caesar's throne room by a nameless cleaner who didn't understand what she had picked up — she only knew it was warm, and that holding it made the screaming in her head stop. She carried it for the rest of her life, and the madness of the House never touched her again.
+A small obsidian pyramid, black as void-glass and perfectly smooth on five faces — but the sixth, the base, is rough and unfinished, as though it was snapped off something larger. Inside the pyramid, visible when held to light, is a frozen moment: a single second of the Red floor's stabilization, captured when IO's architecture locked the old empire's chaos into order. Tiny motes of crimson light hang motionless within the obsidian, frozen mid-swirl. The relic was found in the rubble of the imperial throne room by a nameless cleaner who didn't understand what she had picked up — she only knew it was warm, and that holding it made the screaming in her head stop. She carried it for the rest of her life, and the madness of the House never touched her again.
 
 ---
 
@@ -69,7 +69,7 @@ A reality-anchor for campaigns where planar shenanigans, summoning, or reality-w
 
 ## Variants
 - **Rare — Lesser Stabilization Shard:** Frozen Floor Reality 1/long rest (15-ft radius, 1 minute, DC 15). Blocks summoning and banishment only. No wild magic suppression, no teleportation block, no reality-alteration block. Requires attunement. Cost: ~400,000 soul stones.
-- **Legendary — Caesar's Cage:** Frozen Floor Reality 2/long rest (60-ft radius, 10 minutes, DC 22). All effects of the very rare version, plus: within the zone, all illusion magic is suppressed (as *true seeing* for all creatures), shapechangers revert to their true forms and cannot change shape, and any creature that dies within the zone cannot be raised from the dead by any means short of *true resurrection* or *wish* — the floor keeps what it claims. The relic is the size of a human head and requires two hands to hold while active. Cost: ~25,000,000 soul stones.
+- **Legendary — Imperial Cage:** Frozen Floor Reality 2/long rest (60-ft radius, 10 minutes, DC 22). All effects of the very rare version, plus: within the zone, all illusion magic is suppressed (as *true seeing* for all creatures), shapechangers revert to their true forms and cannot change shape, and any creature that dies within the zone cannot be raised from the dead by any means short of *true resurrection* or *wish* — the floor keeps what it claims. The relic is the size of a human head and requires two hands to hold while active. Cost: ~25,000,000 soul stones.
 
 ---
 
@@ -78,7 +78,7 @@ A reality-anchor for campaigns where planar shenanigans, summoning, or reality-w
 ```html
 <p><em>Wondrous item, very rare (requires attunement)</em></p>
 
-<p>A small obsidian pyramid, black as void-glass and perfectly smooth on five faces — but the sixth, the base, is rough and unfinished, as though it was snapped off something larger. Inside the pyramid, visible when held to light, is a frozen moment: a single second of the Red floor's stabilization, captured when IO's architecture locked Caesar's chaos into order. Tiny motes of crimson light hang motionless within the obsidian, frozen mid-swirl. The relic was found in the rubble of Caesar's throne room by a nameless cleaner who didn't understand what she had picked up — she only knew it was warm, and that holding it made the screaming in her head stop. She carried it for the rest of her life, and the madness of the House never touched her again.</p>
+<p>A small obsidian pyramid, black as void-glass and perfectly smooth on five faces — but the sixth, the base, is rough and unfinished, as though it was snapped off something larger. Inside the pyramid, visible when held to light, is a frozen moment: a single second of the Red floor's stabilization, captured when IO's architecture locked the old empire's chaos into order. Tiny motes of crimson light hang motionless within the obsidian, frozen mid-swirl. The relic was found in the rubble of the imperial throne room by a nameless cleaner who didn't understand what she had picked up — she only knew it was warm, and that holding it made the screaming in her head stop. She carried it for the rest of her life, and the madness of the House never touched her again.</p>
 
 <p><strong>Frozen Floor Reality (1/Long Rest).</strong> As an action, you can hold the relic aloft and speak the stabilization phrase — a string of syllables that sound like math collapsing. For 1 minute, the relic projects a 30-foot-radius zone of stabilized reality centered on you. Within this zone, the architecture of the House supersedes all other planar or magical influences:</p>
 <p>• Creatures cannot be banished, summoned, or sent to other planes of existence by any means. Ongoing summoning spells are suppressed for the duration.<br>

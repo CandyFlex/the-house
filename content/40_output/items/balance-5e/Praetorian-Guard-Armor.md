@@ -6,9 +6,9 @@ subtype: "plate"
 attunement: true
 cost_soulstones: 3200000
 weight_lbs: 65
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - armor
@@ -26,7 +26,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-This suit of ornate plate armor is lacquered in Caesar's imperial crimson and gold, the breastplate embossed with an eagle clutching a fasces. It was worn by the Captain of the Praetorian Guard — the elite soldiers who stood at Caesar's side through every atrocity and ultimately did nothing as the mob pulled him down. The armor still bears the palm-prints of the crowd pressed into the pauldrons, hand-shaped smears of ash and blood from the citizens who grabbed the Captain and dragged him off Caesar's corpse. To wear this armor is to carry the weight of complicity — and the question of what you will do when the moment of choosing comes.
+This suit of ornate plate armor is lacquered in imperial crimson and gold, the breastplate embossed with an eagle clutching a fasces. It was worn by the Captain of the Praetorian Guard — the elite soldiers who stood at a tyrant's side through every atrocity and ultimately did nothing as the mob pulled him down. The armor still bears the palm-prints of the crowd pressed into the pauldrons, hand-shaped smears of ash and blood from the citizens who grabbed the Captain and dragged him off the tyrant's corpse. To wear this armor is to carry the weight of complicity — and the question of what you will do when the moment of choosing comes.
 
 ---
 
@@ -62,13 +62,13 @@ fantasy painterly illustration, visible brush strokes: ornate plate armor lacque
 ---
 
 ## Balance Notes
-A bodyguard's dream. +2 plate (AC 20) with BPS resistance against nonmagical attacks makes the wearer nearly unkillable by mundane hordes — perfect for holding a chokepoint against Caesar's legion remnants. To the Last is the signature: unlimited-use reaction to take hits for allies, which is stronger than Protection fighting style (which only imposes disadvantage) but costs the wearer HP. Guilt and Gold's anti-surprise and anti-hidden-advantage make the wearer a vigilant sentinel. Compare to *+2 plate* (very rare baseline) — this adds three significant properties, pushing it to the high end of very rare. The nonmagical restriction on BPS resistance prevents it from competing with Legendary-tier armor.
+A bodyguard's dream. +2 plate (AC 20) with BPS resistance against nonmagical attacks makes the wearer nearly unkillable by mundane hordes — perfect for holding a chokepoint against the empire's legion remnants. To the Last is the signature: unlimited-use reaction to take hits for allies, which is stronger than Protection fighting style (which only imposes disadvantage) but costs the wearer HP. Guilt and Gold's anti-surprise and anti-hidden-advantage make the wearer a vigilant sentinel. Compare to *+2 plate* (very rare baseline) — this adds three significant properties, pushing it to the high end of very rare. The nonmagical restriction on BPS resistance prevents it from competing with Legendary-tier armor.
 
 ---
 
 ## Variants
 - **Rare — Guard-Captain's Half-Plate:** +1 half-plate. BPS resistance vs nonmagical attacks. To the Last (once per short rest). No Guilt and Gold. Requires attunement. Cost: ~400,000 soul stones.
-- **Legendary — Caesar's Own Panoply:** +3 plate. BPS resistance vs all attacks (including magical). To the Last (unlimited, up to 10 ft range). Guilt and Gold, and additionally you have advantage on initiative rolls. 1/long rest the armor can cast *heroes' feast* (the feast appears as a lavish imperial banquet). While wearing, you are immune to being charmed or frightened by creatures of CR lower than your level. Requires attunement by a creature of lawful alignment. Cost: priceless — cannot be bought, only taken from Caesar's tomb.
+- **Legendary — Imperial Panoply:** +3 plate. BPS resistance vs all attacks (including magical). To the Last (unlimited, up to 10 ft range). Guilt and Gold, and additionally you have advantage on initiative rolls. 1/long rest the armor can cast *heroes' feast* (the feast appears as a lavish imperial banquet). While wearing, you are immune to being charmed or frightened by creatures of CR lower than your level. Requires attunement by a creature of lawful alignment. Cost: priceless — cannot be bought, only taken from the tyrant's tomb.
 
 ---
 
@@ -77,7 +77,7 @@ A bodyguard's dream. +2 plate (AC 20) with BPS resistance against nonmagical att
 ```html
 <p><em>Armor (plate), very rare (requires attunement)</em></p>
 
-<p>This suit of ornate plate armor is lacquered in Caesar's imperial crimson and gold, the breastplate embossed with an eagle clutching a fasces. It was worn by the Captain of the Praetorian Guard — the elite soldiers who stood at Caesar's side through every atrocity and ultimately did nothing as the mob pulled him down. The armor still bears the palm-prints of the crowd pressed into the pauldrons, hand-shaped smears of ash and blood from the citizens who grabbed the Captain and dragged him off Caesar's corpse. To wear this armor is to carry the weight of complicity — and the question of what you will do when the moment of choosing comes.</p>
+<p>This suit of ornate plate armor is lacquered in imperial crimson and gold, the breastplate embossed with an eagle clutching a fasces. It was worn by the Captain of the Praetorian Guard — the elite soldiers who stood at a tyrant's side through every atrocity and ultimately did nothing as the mob pulled him down. The armor still bears the palm-prints of the crowd pressed into the pauldrons, hand-shaped smears of ash and blood from the citizens who grabbed the Captain and dragged him off the tyrant's corpse. To wear this armor is to carry the weight of complicity — and the question of what you will do when the moment of choosing comes.</p>
 
 <p><strong>You have a +2 bonus to AC while wearing this armor.</strong></p>
 

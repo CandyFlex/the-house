@@ -7,9 +7,9 @@ attunement: true
 cost_soulstones: 2800000
 weight_lbs: 3
 save_dc: 17
-source: "The House — Caesar's Legacy"
+source: "The House — Legacy Items"
 tags:
-  - caesars-era
+  - legacy-era
   - legacy
   - balance-5e
   - weapon
@@ -17,7 +17,6 @@ tags:
   - freedom
   - condition-removal
   - anti-tyrant
-  - rebellion
 date_created: 2026-06-05
 ---
 
@@ -27,7 +26,7 @@ date_created: 2026-06-05
 ---
 
 ## Description
-This longsword was forged from the broken blades of twelve rebels executed by Caesar for the crime of hope. After each execution, a sympathizer in the palace smithy collected the shattered steel, hiding the fragments beneath the forge. The thirteenth rebel — a woman named Severa — survived her sentence by killing her executioner with his own axe. She recovered the fragments, melted them down, and forged this blade herself in a cave outside the city while Caesar's hunters searched the hills. The sword's steel is streaked with twelve different shades of grey where the original blades fused imperfectly. When a tyrant is near, the fuller bleeds a thin line of blood-red light — the memory of its makers, still watching.
+This longsword was forged from the broken blades of twelve rebels executed by the old order for the crime of hope. After each execution, a sympathizer in the palace smithy collected the shattered steel, hiding the fragments beneath the forge. The thirteenth rebel — a woman named Severa — survived her sentence by killing her executioner with his own axe. She recovered the fragments, melted them down, and forged this blade herself in a cave outside the city while imperial agents searched the hills. The sword's steel is streaked with twelve different shades of grey where the original blades fused imperfectly. When a tyrant is near, the fuller bleeds a thin line of blood-red light — the memory of its makers, still watching.
 
 ---
 
@@ -78,7 +77,7 @@ An anti-oppression weapon built for campaigns with mind-controlling villains. Cu
 ```html
 <p><em>Weapon (longsword), very rare (requires attunement)</em></p>
 
-<p>This longsword was forged from the broken blades of twelve rebels executed by Caesar for the crime of hope. After each execution, a sympathizer in the palace smithy collected the shattered steel, hiding the fragments beneath the forge. The thirteenth rebel — a woman named Severa — survived her sentence by killing her executioner with his own axe. She recovered the fragments, melted them down, and forged this blade herself in a cave outside the city while Caesar's hunters searched the hills. The sword's steel is streaked with twelve different shades of grey where the original blades fused imperfectly. When a tyrant is near, the fuller bleeds a thin line of blood-red light — the memory of its makers, still watching.</p>
+<p>This longsword was forged from the broken blades of twelve rebels executed by the old order for the crime of hope. After each execution, a sympathizer in the palace smithy collected the shattered steel, hiding the fragments beneath the forge. The thirteenth rebel — a woman named Severa — survived her sentence by killing her executioner with his own axe. She recovered the fragments, melted them down, and forged this blade herself in a cave outside the city while imperial agents searched the hills. The sword's steel is streaked with twelve different shades of grey where the original blades fused imperfectly. When a tyrant is near, the fuller bleeds a thin line of blood-red light — the memory of its makers, still watching.</p>
 
 <p><strong>You have a +2 bonus to attack and damage rolls made with this magic weapon.</strong></p>
 
