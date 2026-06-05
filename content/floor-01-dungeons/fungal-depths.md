@@ -54,7 +54,7 @@ The ladder deposits you into the **Interstitial Layer** — a narrow, humid craw
   - Purge Husks (releases a fungicide mist that dissolves all Husks — resets the room for the next cycle).
 - *Corruption check:* One Husk does not match the patrol pattern. It stands still in the chamber's northwest corner, facing the wall. It has been there for three cycles. It does not respond to delvers. The mycelium will not reclaim it. Flag for extraction.
 
-**Possible items:** Sporewalker's Cloak (tucked behind a fungal growth on the west wall), Glowcap Lantern (held by the anomalous Husk — retrieval requires admin intervention or defeating it in combat).
+**Possible items:** Sporewalker's Cloak (tucked behind a fungal growth on the west wall), Glowcap Lantern (held by the anomalous Husk — retrieval requires admin intervention or defeating it in combat), Sporepuff Slippers (buried in a soft patch of puffball mycelium beside the west wall), Mycelial Messenger (clutched in the grip of a dead delver half-absorbed into the fungal floor — its last message still inside).
 
 ---
 
@@ -76,7 +76,7 @@ The ladder deposits you into the **Interstitial Layer** — a narrow, humid craw
   - Activate emergency webbing (covers the slime pool below, removing fall damage — safety override).
 - *Corruption check:* The third terrace shows abnormal mycelial growth — the fungus is forming patterns. Circles within circles. A spiral. The mycelium is writing something. The text is not in any known language but the shape is recognizable: a map. Of what? Unknown. Do not disturb the growth. Document and flag.
 
-**Possible items:** Mycelial Net (woven into a Drone nest on terrace 2), Sporewood Longbow (embedded in the hollow mushroom stalk at the top terrace), Chitin-Bark Carapace (worn by a dead delver collapsed on terrace 3, partially absorbed by the spiral-pattern mycelium).
+**Possible items:** Mycelial Net (woven into a Drone nest on terrace 2), Sporewood Longbow (embedded in the hollow mushroom stalk at the top terrace), Chitin-Bark Carapace (worn by a dead delver collapsed on terrace 3, partially absorbed by the spiral-pattern mycelium), Fungal Spore-Launcher (grown into a giant shelf mushroom on terrace 2 — the stalk has formed around the stock, must be cut free), Root-Grip Greaves (worn by the corpse of a Sovereign's guard collapsed against the back wall of terrace 4 — centuries old, still anchored), Seedling Satchel (tucked inside a hollow mushroom stalk on the lowest terrace, still producing seedlings).
 
 ---
 
@@ -98,7 +98,7 @@ The ladder deposits you into the **Interstitial Layer** — a narrow, humid craw
   - Dismiss the Rotwarden (sends it into the mycelial network for 24 hours — the room becomes a standard combat encounter against the Stalkers).
 - *Corruption check:* The mycelium here is deeply integrated with the Rotwarden's consciousness. The Rotwarden reports dreams — visions of a room that does not exist in this dungeon, a room made of glass. It draws the same spiral pattern seen on terrace 3. The mycelium is trying to communicate something across dungeons. This should not be possible.
 
-**Possible items:** Decayer's Gauntlets (grown into a fungal stalk — requires the Rotwarden's permission to harvest), Fungi-Touched Staff (embedded in the mycelial floor at the clearing's edge), Ring of Rot and Renewal (worn by the Rotwarden — it will offer the ring as a gift if the admin treats it with respect).
+**Possible items:** Decayer's Gauntlets (grown into a fungal stalk — requires the Rotwarden's permission to harvest), Fungi-Touched Staff (embedded in the mycelial floor at the clearing's edge), Ring of Rot and Renewal (worn by the Rotwarden — it will offer the ring as a gift if the admin treats it with respect), Rot-Tender's Sickle (held by the Rotwarden — offered to admins who demonstrate a commitment to the cycle of death and renewal), Marrow-Mesh Gambeson (worn by the Rotwarden beneath its fungal robe — gifted if the admin answers its question truthfully and treats the garden with care).
 
 ---
 
@@ -121,18 +121,22 @@ The ladder deposits you into the **Interstitial Layer** — a narrow, humid craw
   - **Emergency Harvest:** Forces the treasure room to open without defeating the Sovereign. The Sovereign remains alive and hostile. The items inside are random (no admin selection). This is an extraction, not a victory.
 - *Admin dialogue:* The Sovereign speaks in complete sentences, unlike the Rotwarden. It is old — perhaps older than the dungeon. It refers to IO by name and asks after Caesar with what might be contempt. It knows the spiral pattern appears in both this dungeon and the Crystal Trench. It will not explain what it means. *"Some things grow toward each other. That is enough."*
 
-**Boss drop items (random 1–2 from pool):** Heart of the Mycelium, Crown of the Spore Sovereign.
+**Boss drop items (random 2–3 from pool):** Heart of the Mycelium, Crown of the Spore Sovereign, Scepter of Spore Sovereignty.
+
+**Non-drop boss room items:** Pallid Spore Bulwark (growing from the side of the throne like a shelf fungus — can be carved free), Bloom of the Wilt-King (resting in a hollow in the colossal mushroom's stalk base, visible as a faint bruise-purple glow — only blooms if a creature has died in the chamber within the last hour).
 
 ---
 
-## Item Pool (10 items)
+## Item Pool (20 items)
 
 ### Uncommon
-| Item | Type | Key Mechanic | Found In |
-|------|------|-------------|----------|
-| [Sporewalker's Cloak](fungal-depths/Sporewalkers-Cloak.md) | Wondrous (cloak) | Poison resist, spore-cloud escape | Node 1 (west wall) |
-| [Glowcap Lantern](fungal-depths/Glowcap-Lantern.md) | Wondrous (held) | Bioluminescent light, faerie fire | Node 1 (anomalous Husk) |
-| [Mycelial Net](fungal-depths/Mycelial-Net.md) | Weapon (net) | +1, escape DC 15, regenerates | Node 2 (terrace 2) |
+| Item | Type | Key Mechanic | Found In | Attune |
+|------|------|-------------|----------|--------|
+| [Sporewalker's Cloak](fungal-depths/Sporewalkers-Cloak.md) | Wondrous (cloak) | Poison resist, spore-cloud escape | Node 1 (west wall) | Yes |
+| [Glowcap Lantern](fungal-depths/Glowcap-Lantern.md) | Wondrous (held) | Bioluminescent light, faerie fire | Node 1 (anomalous Husk) | Yes |
+| [Mycelial Net](fungal-depths/Mycelial-Net.md) | Weapon (net) | +1, escape DC 15, regenerates | Node 2 (terrace 2) | Yes |
+| [Sporepuff Slippers](fungal-depths/Sporepuff-Slippers.md) | Wondrous (boots) | Cushioned fall, spore-glide jump, stomp cloud | Node 1 (hidden growth) | **No** |
+| [Mycelial Messenger](fungal-depths/Mycelial-Messenger.md) | Wondrous | 25-word message delivery via mycelium, 1/dawn | Node 1 (dead delver remains) | **No** |
 
 ### Rare
 | Item | Type | Key Mechanic | Found In |
@@ -142,12 +146,20 @@ The ladder deposits you into the **Interstitial Layer** — a narrow, humid craw
 | [Decayer's Gauntlets](fungal-depths/Decayers-Gauntlets.md) | Wondrous (gloves) | +1d6 poison, spore choke | Node 3 (fungal stalk) |
 | [Fungi-Touched Staff](fungal-depths/Fungi-Touched-Staff.md) | Staff | +1, poison spells, blight | Node 3 (clearing edge) |
 | [Ring of Rot and Renewal](fungal-depths/Ring-of-Rot-and-Renewal.md) | Ring | Reaction THP, speak with dead | Node 3 (Rotwarden's gift) |
+| [Rot-Tender's Sickle](fungal-depths/Rot-Tenders-Sickle.md) | Weapon (sickle) | +1, harvest charges → cure wounds, save-from-0 | Node 3 (Rotwarden's gift, for worthy admins) |
+| [Fungal Spore-Launcher](fungal-depths/Fungal-Spore-Launcher.md) | Weapon (light crossbow) | +1, auto-ammo, sporecloud, 15ft AoE burst | Node 2 (hollow mushroom stalk) |
+| [Root-Grip Greaves](fungal-depths/Root-Grip-Greaves.md) | Wondrous (boots) | +10ft speed, root anchor (+2 AC, immovable), anti-shove | Node 2 (Sovereign's guard corpse, terrace 4) |
+| [Marrow-Mesh Gambeson](fungal-depths/Marrow-Mesh-Gambeson.md) | Armor (studded leather) | +1 AC, DR 3 to B/P/S, fungal exoskeleton | Node 3 (Rotwarden's robe, gifted on respect) |
+| [Pallid Spore Bulwark](fungal-depths/Pallid-Spore-Bulwark.md) | Armor (shield) | +1 shield, reaction spore retaliation, bloom → fungal wall | Boss chamber (throne growth) |
+| [Seedling Satchel](fungal-depths/Seedling-Satchel.md) | Wondrous (belt) | 1d4 random fungal grenades/day (obscure/poison/light/restrain) | Node 2 (hollow stalk, lower terrace) |
 
 ### Very Rare
 | Item | Type | Key Mechanic | Found In |
 |------|------|-------------|----------|
 | [Heart of the Mycelium](fungal-depths/Heart-of-the-Mycelium.md) | Wondrous (amulet) | Poison immunity, fungal zombie, spore-step | Boss drop |
 | [Crown of the Spore Sovereign](fungal-depths/Crown-of-the-Spore-Sovereign.md) | Wondrous (head) | Speak with fungi, cloudkill, spore aura | Boss drop |
+| [Scepter of Spore Sovereignty](fungal-depths/Scepter-of-Spore-Sovereignty.md) | Weapon (mace) | +2, infectious command, 1/day mass charm | Boss drop |
+| [Bloom of the Wilt-King](fungal-depths/Bloom-of-the-Wilt-King.md) | Wondrous | Death-charge system: revivify, blight, death ward | Boss drop (rare random) |
 
 ---
 
