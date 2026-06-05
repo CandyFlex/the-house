@@ -9,7 +9,7 @@ significant_floors: [1]
 aliases: [the chipmunk]
 tags: [canon/person, floor/1]
 first_source: "[[00_inbox/_processed/Red1-transcript]]"
-last_updated: 2026-04-26
+last_updated: 2026-05-10
 ---
 
 # Ball
@@ -66,3 +66,13 @@ An outside entity stranded on Floor 1 as a child during the Architect's first re
 
 ## Sources
 - [[00_inbox/_processed/Red1-transcript]]
+
+## 1-Transcript Additions
+- RC confirmed Ball is alive — RC can detect this.
+- RC considers him one of the largest liabilities the party could have.
+- Ball once tried to loot RC's own eye.
+- Deliberately avoids areas where RC can perceive — can get into places RC cannot see.
+- Possibly in the Bazaar (time-dilated space where even RC's surveillance is limited).
+
+## Relationships
+- [[the-bazaar]] — possibly hiding there

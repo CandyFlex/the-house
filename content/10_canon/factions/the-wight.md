@@ -8,7 +8,7 @@ reach_floors: [all]
 aliases: [the WIGHT, WIGHT]
 tags: [canon/faction, floor/all]
 first_source: "[[00_inbox/_processed/Red1-transcript]]"
-last_updated: 2026-04-26
+last_updated: 2026-05-10
 ---
 
 # The WIGHT
@@ -37,3 +37,10 @@ The House's authority entity — a sentient force or organization that hunts tho
 
 ## Sources
 - [[00_inbox/_processed/Red1-transcript]]
+
+## 1-Transcript Additions
+- Instructed [[rc-the-rock]] to meet and teach IO — the Wight sent RC.
+- This reveals a more nuanced role: the WIGHT is a sentient agent of the House that can also delegate and instruct, not just hunt.
+
+## Relationships
+- [[rc-the-rock]] — instructed him to meet/teach IO

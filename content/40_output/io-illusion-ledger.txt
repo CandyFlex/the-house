@@ -1,0 +1,18 @@
+#### Registry #0211 — The Shifting Ledger
+*Wondrous item, legendary (requires attunement by a spellcaster)*
+
+A book whose cover refuses to settle. To one observer it is a weathered codex bound in black leather with silver clasps. To another it is a scroll case lacquered in lamplight. To you it is whatever you expect it to be, and that is how you know it is lying. The spine glyph reads "0211" in a script that rearranges itself when you blink.
+
+The first page is yours — the Mislead page, the one you aligned to, the one the ledger recognizes as its anchor. The paper is blank until you touch it, at which point the spell-sigil surfaces in pale silver ink. Behind it are two other pages, cut from different registries and bound into this one. They do not belong here. The stitching that holds them is fresh, and the paper edges still glow faintly with the color of their origin: a cold blue-white from the necromantic ledger, a low orange pulse from the evocation. The House permits the theft. For now.
+
+***Illusory Registry (#0211).*** While holding this ledger, you can cast *mislead* (spell save DC 17) without expending a spell slot. Once you do so, you cannot cast it again from the ledger until you finish a long rest. Additionally, when a creature attempts to identify the ledger, discern your location while you are holding it, or read its contents without your permission, it must succeed on a DC 17 Intelligence (Investigation) check or receive false information of the ledger's choosing.
+
+***Necromantic Page (#8895).*** The bound page from the Death registry is icy to the touch and smells faintly of still air. While this page remains bound into the ledger, you can cast *revivify* without expending a spell slot or material components. Once you do so, you cannot cast it again from the ledger until you finish a long rest.
+
+***Evocation Page (#6842).*** The page cut from the Flame registry radiates a dry heat and crinkles when turned, as though it is always on the verge of catching. While this page remains bound into the ledger, you can cast *embers*\* (4th-level evocation) without expending a spell slot. Once you do so, you cannot cast it again from the ledger until you finish a long rest.
+
+***Bound Ledgers.*** The ledger's stitching can hold up to three pages at a time — one anchor page from your aligned registry, and up to two pages cut from other ledgers. A bound page can be removed during a short rest; doing so severs your connection to that spell until a new page is stitched in its place.
+
+{{note A ledger does not give — it loans. Every spell cast from its pages is a debt recorded somewhere, in ink that never dries, in a language the caster cannot read. The question is not what the House will ask for when the balance comes due, but whether you will recognize the asking.}}
+
+\* *Embers* — #6842, 4th-level evocation. A scattering of burning cinders that cling and spread.

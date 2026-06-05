@@ -23,11 +23,13 @@ An ancient religion developed unknowingly around Caesar's scattered organs, insi
 - Byproduct deities: the organs developed their own semi-sentience — children of Caesar who have no knowledge of their paternity.
 - Aesthetic: vampire, chimera, monster mythology.
 - The players were sent by Caesar to retrieve the organs from this realm.
+- **Woe**: Chimerakind praised and swore souls to her. She regretted this connection on her deathbed — frustrated that it traced back to Caesar, even though Chimerakind never knew he was her father. See [[woe]].
 
 ## Relationships
 - [[caesar]] — unknowingly worships him through his scattered organs
 - [[floor-01-red]] — operates within (in the displaced old pocket realm)
 - [[pre-caesar-floor-1]] — present in the displaced pocket realm
+- [[woe]] — worshipped her unknowingly; she regretted the connection
 
 ## Open Questions
 - Do any Chimerakind adherents know the truth of what they worship?

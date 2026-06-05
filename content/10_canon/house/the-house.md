@@ -23,6 +23,9 @@ The world itself. Seven-floored, mesophysical, self-contained. All reality manif
 - No outside has ever been observed.
 - Colors are structural, not decorative. Each floor's color carries thematic weight, archetype, and cosmological signature.
 - References to "outside" from within The House are treated as internal manifestations (psychological, spiritual, or metaphorical) unless explicitly flagged as a cosmological question.
+- **Creation narrative**: The Architect came into being as reality itself. His existence caused both intentional and unintentional Originators to form. Darkness was the first Originator. The Will was created to codify reality and prevent unintentional spawning.
+- **Intentional vs. unintentional**: Two categories of existence within the House — what was intentionally shaped and what formed as a byproduct. The Unintentional Realms outside the House are pure unintentional manifestation.
+- **No outside — refined**: No external space within the House's ordered reality has been observed. The Unintentional Realms ARE the actual outside — they exist beyond the 7-floor Architect-codified reality. These are not internal manifestations.
 
 ## Floors
 - [[floor-01-red]] — Red, the entrance from outside
@@ -61,6 +64,7 @@ The world itself. Seven-floored, mesophysical, self-contained. All reality manif
 
 ## Open Questions
 - To be developed.
+- The Unintentional Realms visible through Outpost August refine the "no outside" principle. Are these realms accessible, and do they contain their own inhabitants or structure?
 
 ## Key Takeaways
 - The House is the world, not a place within a world.

@@ -4,6 +4,21 @@ Append-only record of approved canon changes. Newest at top.
 
 ---
 
+## 2026-05-10 — 1-transcript Ingestion (Raw Session: Caesar's Fall, Floor 1 Aftermath)
+Approved proposal: `30_proposals/_approved/2026-05-10-1-session-ingest.md`
+Source: [[00_inbox/_processed/1-transcript]]
+New entities: Transformation School (IO's stronghold, 6-tower obsidian school with gate system, Madridian Hall, Administration Hall, Watch Stations, Chamber of Appointment, Gallery, Practice Courts, Tombs of Travel, Dormitories), The Descent (Caesar's residue pool beneath the school), The Bazaar (time-dilated marketplace), The Smith (Bazaar weaponsmith).
+Corrected: Valus ran Outpost April (not July); Mr. Fine (not "Mister Nice"); Outpost July disassociated from Valus; Outpost survivor count: 4-5; soul stone tiers include Expa/Exna.
+Major updates: RC (fragment of Altar, WIGHT-sent, ties to IO), Caesar (wizard origin, pure wand), Woe (dying vision with all faction positions), Mr. Fine (full entity — Caesar's first rival, 500M soul stones), Nero (green encrypted ledger connection, RC's alarm), Ball (alive, liability, eye-thief), Woe's vision (Mr. Fine west, warlocks sky, witches south, dark green east = old pocket realm), Temporal Hierarchy (Hour Space x10 mechanics, hand weightings, ritual details), the WIGHT (instructed RC), Witches/Warlocks (positions, hostility ratings).
+
+---
+
+## 2026-05-09 — Untitled Ingestion (Corrected)
+Approved proposal: `30_proposals/_approved/2026-05-09-untitled-corrected.md`
+Major canon expansion from campaign session recap. Added entities: RC the Rock, Altar of Knowledge, Outpost December, Outpost August, Caesar's Spell Focus, Woe (Caesar's daughter, deceased), Mister Nice, Witches, Warlocks of the Skies, Unintentional Realms, Soul Stone Currency, the Dark Manor, Myoseeds, Stable, Kind, Slaughterkind, Cardholders, Soul Storm (as phenomenon data on Floor 1). Major updates: Nero (stub to full -- confirmed as betrayer, hundreds of unintentional kills, one intentional kill), the Architect (creation narrative), the Will (origin, cardholders), Originators (intentional/unintentional typology, betrayers subtype), Caesar (spellcaster backstory, daughter Woe, intentional installation), the House (no outside refinement), Floor 1 (outposts, altar, dark manor, false hydra lineage), Temporal Hierarchy (Steps 6-10), Outpost System (December/August/July statuses), Chimerakind (Woe as worshipped figure), _concepts.md (Betrayers, Intentional Installation, no outside refinement). Corrections applied per verbal session: Mister Nice/Witches/Warlocks are separate hostile entities; Woe is Caesar's daughter (not byproduct); "portrayers" -> "betrayers"; "myocids" -> "myoseeds"; currency tiers corrected; false hydra lineage resolved (no equine); The Revisitor removed as garbled artifact.
+
+---
+
 ## 2026-04-26 — Red1 Full Application (people, places, mechanics, items, events)
 
 **Sources:**

@@ -25,6 +25,11 @@ A living legal and cosmological document created by the Architect — intended t
   - Personality and behavior derive from content: a fragment concerning law behaves differently from one concerning hospitality, punishment, or creation.
   - Every fragment is a potential character, encounter, or plot engine.
 - Valus alluded to the Will and its shattering as the most important thing he left the players with.
+- **Origin**: The Will was created to codify and give structure to the reality the Architect needed. It was written specifically to keep Originators from being unintentionally created and to put more intentional ones into existence.
+- **First placement**: The Will was first laid down on the Altar of Knowledge on Floor 1.
+- **Purpose as protection**: The Will contains rights and laws that protect Originators from open conflict with each other — this is why most Originators are NOT in constant strife.
+- **Propaganda note**: The official written House lore/law (what the Will records) is acknowledged to be propagandized and may not match the true order. RC described an "unembellished" version that differs from the official account.
+- **Cardholders**: As an unintentional consequence of the Will's fragmentation, some fragments have manifested strongly enough to form "emboldened bodies" — tangible, present entities called cardholders (also "cards" or "cards of the Will"). The Architect did not plan for this. See [[cardholders]].
 
 ## Details
 - The Will's shattering is a House-wide scatter of living legal/cosmological entities. Players will encounter fragments across all floors in all sizes.
@@ -34,6 +39,9 @@ A living legal and cosmological document created by the Architect — intended t
 - [[the-architect]] — creator
 - [[valus]] — informed the players of its existence
 - [[the-house]] — Architect's intended proxy across the entire House
+- [[altar-of-knowledge]] — first laid down here
+- [[rc-the-rock]] — stones of the altar were infused by the Will's presence
+- [[cardholders]] — unintentional manifestation of Will fragments into emboldened bodies
 
 ## Open Questions
 - Was the Will ever completed? If not, what portions are missing entirely?
@@ -41,6 +49,8 @@ A living legal and cosmological document created by the Architect — intended t
 - Does the Architect know the Will shattered? Does he care?
 - Can fragments be reassembled? What would a reconstituted Will do?
 - Are any fragments aware of what they are, or do they simply act from their content?
+- Which parts of the Will's record are accurate and which are propaganda?
+- Does every fragment carry the propagandized version, or do some hold truer accounts?
 
 ## Key Takeaways
 - The Architect's intended proxy — never fully realized.
