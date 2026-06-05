@@ -21,7 +21,7 @@ Each dungeon is a contained pocket realm — a demiplane that exists only while 
 | Hex | Dungeon | Difficulty | Rooms | Items | Status |
 |-----|---------|-----------|-------|-------|--------|
 | 1 | [Crystal Trench](crystal-trench) | Easy | 3 + Boss | 20 | ✅ Active |
-| 2 | [Fungal Depths](fungal-depths) | Easy | 3 + Boss | 10 | ✅ Active |
+| 2 | [Fungal Depths](fungal-depths) | Easy | 3 + Boss | 20 | ✅ Active |
 | 5 | Iron Crucible | Moderate | — | — | ⏳ Pending |
 | 7 | Glass Cathedral | Hard | — | — | ⏳ Pending |
 
