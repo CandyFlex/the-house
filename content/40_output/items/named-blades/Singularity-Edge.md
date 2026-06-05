@@ -9,15 +9,15 @@ weight_lbs: 500
 save_dc: 17
 source: "The House â€” Named Blades"
 tags:
-  — named-blade
-  — gravity
-  — force
-  — melee
-  — control
-  — pull
-  — greatsword
-  — two-handed
-  — legendary-forge
+  - named-blade
+  - gravity
+  - force
+  - melee
+  - control
+  - pull
+  - greatsword
+  - two-handed
+  - legendary-forge
 date_created: 2026-06-05
 ---
 

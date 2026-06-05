@@ -9,15 +9,15 @@ weight_lbs: 4
 save_dc: 17
 source: "The House â€” Named Blades"
 tags:
-  — named-blade
-  — necrotic
-  — parasitic
-  — melee
-  — versatile
-  — polearm
-  — shapeshift
-  — healing
-  — legendary-forge
+  - named-blade
+  - necrotic
+  - parasitic
+  - melee
+  - versatile
+  - polearm
+  - shapeshift
+  - healing
+  - legendary-forge
 date_created: 2026-06-05
 ---
 
