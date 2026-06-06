@@ -14,6 +14,8 @@ title: The House
 
 → **[Legacy Items](40_output/items/balance-5e)** — Legacy items from a bygone age — gladiator gear, rebel armaments, imperial regalia.
 
+→ **[Wonders of the 1st Floor](40_output/items/wonders-floor-1)** — Ten zany, reality-bending items that refuse to make sense. Puzzle dimensions, floating fruit, borrowed time, and a door handle with opinions.
+
 → **[Floor 1 — Red](floor-01)** — the threshold. Dungeons, soul storms, coastline, IO, and the Originator of Freedom.
 
 ---
