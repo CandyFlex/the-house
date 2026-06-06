@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "The House": "/",
-      "Floor 1 — Dungeons": "/floor-01-dungeons",
+      "The House": "/the-house/",
+      "Floor 1 — Dungeons": "/the-house/floor-01-dungeons",
       GitHub: "https://github.com/CandyFlex/the-house",
     },
   }),
